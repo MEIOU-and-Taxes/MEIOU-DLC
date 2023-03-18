@@ -1,0 +1,103 @@
+
+dlc069_mch_sprite_pack = {
+	country_trigger = {
+		culture_group = jurchen_group
+		NOT = { tag = QNG }
+	}
+	sprite_infantry = {
+		0 = mandate_MCH_INFANTRY_1
+		1 = mandate_MCH_INFANTRY_2
+		2 = mandate_MCH_INFANTRY_3
+		3 = mandate_MCH_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_MCH_CAVALRY_1
+		1 = mandate_MCH_CAVALRY_2
+		2 = mandate_MCH_CAVALRY_3
+		3 = mandate_MCH_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_MCH_ARTILLERY_1
+		1 = mandate_MCH_ARTILLERY_2
+		2 = mandate_MCH_ARTILLERY_3
+		3 = mandate_MCH_ARTILLERY_4
+	}
+}
+
+dlc069_kha_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = mongol
+			primary_culture = khalka
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_KHA_INFANTRY_1
+		1 = mandate_KHA_INFANTRY_2
+		2 = mandate_KHA_INFANTRY_3
+		3 = mandate_KHA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_KHA_CAVALRY_1
+		1 = mandate_KHA_CAVALRY_2
+		2 = mandate_KHA_CAVALRY_3
+		3 = mandate_KHA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_KHA_ARTILLERY_1
+		1 = mandate_KHA_ARTILLERY_2
+		2 = mandate_KHA_ARTILLERY_3
+		3 = mandate_KHA_ARTILLERY_4
+	}
+}
+
+dlc069_oir_sprite_pack = {
+	country_trigger = {
+		primary_culture = oirats
+	}
+	sprite_infantry = {
+		0 = mandate_OIR_INFANTRY_1
+		1 = mandate_OIR_INFANTRY_2
+		2 = mandate_OIR_INFANTRY_3
+		3 = mandate_OIR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_OIR_CAVALRY_1
+		1 = mandate_OIR_CAVALRY_2
+		2 = mandate_OIR_CAVALRY_3
+		3 = mandate_OIR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_OIR_ARTILLERY_1
+		1 = mandate_OIR_ARTILLERY_2
+		2 = mandate_OIR_ARTILLERY_3
+		3 = mandate_OIR_ARTILLERY_4
+	}
+}
+
+dlc069_chg_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = chaghatai
+			primary_culture = old_uyghur
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_CHG_INFANTRY_1
+		1 = mandate_CHG_INFANTRY_2
+		2 = mandate_CHG_INFANTRY_3
+		3 = mandate_CHG_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_CHG_CAVALRY_1
+		1 = mandate_CHG_CAVALRY_2
+		2 = mandate_CHG_CAVALRY_3
+		3 = mandate_CHG_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_CHG_ARTILLERY_1
+		1 = mandate_CHG_ARTILLERY_2
+		2 = mandate_CHG_ARTILLERY_3
+		3 = mandate_CHG_ARTILLERY_4
+	}
+}

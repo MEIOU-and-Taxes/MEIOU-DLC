@@ -1,0 +1,734 @@
+	###################################################################################################################
+	#####                                            daimyo of Heaven                                            #####
+	###################################################################################################################
+
+entity = {
+	name = "daimyo_katana_01_entity"
+	pdxmesh = "daimyo_katana_01_mesh"
+}
+	
+	###################################################################################################################
+	#####                                                DATE                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_DTE_INFANTRY_1"
+	pdxmesh = "daimyo_DTE_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_DTE_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_DTE_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_DTE_CAVALRY_1_rider"
+	pdxmesh = "daimyo_DTE_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_DTE_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_DTE_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Hosokawa                                            	      #####
+	###################################################################################################################
+
+entity = {
+	name = "mandate_HSK_INFANTRY_1"
+	pdxmesh = "daimyo_HSK_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_HSK_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_HSK_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_HSK_CAVALRY_1_rider"
+	pdxmesh = "daimyo_HSK_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_HSK_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_HSK_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Hatakeyama                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_HTK_INFANTRY_1"
+	pdxmesh = "daimyo_HTK_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_HTK_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_HTK_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_HTK_CAVALRY_1_rider"
+	pdxmesh = "daimyo_HTK_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_HTK_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_HTK_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	
+	###################################################################################################################
+	#####                                                Imagawa                                            	      #####
+	###################################################################################################################	
+entity = {
+	name = "IGW_INFANTRY_1"
+	pdxmesh = "daimyo_IMG_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "IGW_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "IGW_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "IGW_CAVALRY_1_rider"
+	pdxmesh = "daimyo_IMG_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "IGW_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "IGW_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Otomo                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_OTM_INFANTRY_1"
+	pdxmesh = "daimyo_OTM_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_OTM_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_OTM_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_OTM_CAVALRY_1_rider"
+	pdxmesh = "daimyo_OTM_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_OTM_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_OTM_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Ouchi                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_OUC_INFANTRY_1"
+	pdxmesh = "daimyo_OUC_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_OUC_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_OUC_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_OUC_CAVALRY_1_rider"
+	pdxmesh = "daimyo_OUC_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_OUC_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_OUC_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Shiba                                            	      #####
+	###################################################################################################################	
+entity = {
+	name = "mandate_SBA_INFANTRY_1"
+	pdxmesh = "daimyo_SBA_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_SBA_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_SBA_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_SBA_CAVALRY_1_rider"
+	pdxmesh = "daimyo_SBA_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_SBA_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_SBA_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Shimazu                                                  #####
+	###################################################################################################################	
+entity = {
+	name = "mandate_SMZ_INFANTRY_1"
+	pdxmesh = "daimyo_SMZ_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_SMZ_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_SMZ_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_SMZ_CAVALRY_1_rider"
+	pdxmesh = "daimyo_SMZ_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_SMZ_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_SMZ_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Takeda                                                  #####
+	###################################################################################################################	
+entity = {
+	name = "mandate_TKD_INFANTRY_1"
+	pdxmesh = "daimyo_TKD_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_TKD_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_TKD_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_TKD_CAVALRY_1_rider"
+	pdxmesh = "daimyo_TKD_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_TKD_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_TKD_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	###################################################################################################################
+	#####                                                Uesugi                                                  #####
+	###################################################################################################################	
+	entity = {
+	name = "mandate_UES_INFANTRY_1"
+	pdxmesh = "daimyo_UES_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_UES_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_UES_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_UES_CAVALRY_1_rider"
+	pdxmesh = "daimyo_UES_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_UES_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_UES_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+	
+	
+	
+	###################################################################################################################
+	#####                                                Nanbu                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_RFR_INFANTRY_1"
+	pdxmesh = "daimyo_RFR_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_RFR_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_RFR_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_RFR_CAVALRY_1_rider"
+	pdxmesh = "daimyo_RFR_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_RFR_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_RFR_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}
+
+	###################################################################################################################
+	#####                                                Yamana                                            	      #####
+	###################################################################################################################
+entity = {
+	name = "mandate_YMN_INFANTRY_1"
+	pdxmesh = "daimyo_YMN_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" looping = no chance = 1 next_state = "attack" }
+	state = { name = "attack"		animation = "attack_2" looping = no chance = 1 next_state = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+}
+entity = {
+	name = "mandate_YMN_CAVALRY_1"
+	pdxmesh = "daimyo_cavalry_horse_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_walk" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "mandate_YMN_CAVALRY_1_rider"
+	}
+}
+entity = {
+	name = "mandate_YMN_CAVALRY_1_rider"
+	pdxmesh = "daimyo_YMN_infantry_01"
+	version = 10
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+
+	attach = {
+		right_hand_accessory_3 = "daimyo_katana_01_entity"
+	}
+	scale = 0.85
+}
+entity = {
+	name = "mandate_YMN_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 10
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "mandate_YMN_INFANTRY_1"
+		cannon_node = "asiangfx_ARTILLERY_1_cannon"
+	}
+}

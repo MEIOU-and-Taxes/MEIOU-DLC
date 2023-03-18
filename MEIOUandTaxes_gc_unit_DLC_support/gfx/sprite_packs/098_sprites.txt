@@ -1,0 +1,127 @@
+dlc098_gra_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = GRA
+			tag = ALM
+		}
+	}
+	sprite_infantry = {
+		0 = gcup_GRA_INFANTRY_1
+		1 = gcup_GRA_INFANTRY_2
+		2 = gcup_GRA_INFANTRY_3
+		3 = gcup_GRA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = gcup_GRA_CAVALRY_1
+		1 = gcup_GRA_CAVALRY_2
+		2 = gcup_GRA_CAVALRY_3
+		3 = gcup_GRA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = gcup_GRA_ARTILLERY_1
+		1 = gcup_GRA_ARTILLERY_2
+		2 = gcup_GRA_ARTILLERY_3
+		3 = gcup_GRA_ARTILLERY_4
+	}
+}
+
+dlc098_gal_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = GAL
+			tag = LEO
+			tag = ENR
+		}
+	}
+	sprite_infantry = {
+		0 = gcup_GAL_INFANTRY_1
+		1 = gcup_GAL_INFANTRY_2
+		2 = gcup_GAL_INFANTRY_3
+		3 = gcup_GAL_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = gcup_GAL_CAVALRY_1
+		1 = gcup_GAL_CAVALRY_2
+		2 = gcup_GAL_CAVALRY_3
+		3 = gcup_GAL_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = gcup_GAL_ARTILLERY_1
+		1 = gcup_GAL_ARTILLERY_2
+		2 = gcup_GAL_ARTILLERY_3
+		3 = gcup_GAL_ARTILLERY_4
+	}
+}
+
+dlc098_nav_sprite_pack = {
+	country_trigger = {
+		tag = NAV
+	}
+	sprite_infantry = {
+		0 = gcup_NAV_INFANTRY_1
+		1 = gcup_NAV_INFANTRY_2
+		2 = gcup_NAV_INFANTRY_3
+		3 = gcup_NAV_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = gcup_NAV_CAVALRY_1
+		1 = gcup_NAV_CAVALRY_2
+		2 = gcup_NAV_CAVALRY_3
+		3 = gcup_NAV_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = gcup_NAV_ARTILLERY_1
+		1 = gcup_NAV_ARTILLERY_2
+		2 = gcup_NAV_ARTILLERY_3
+		3 = gcup_NAV_ARTILLERY_4
+	}
+}
+
+dlc098_sle_sprite_pack = {
+	country_trigger = {
+		always = no #Barbary Pirates
+	}
+	sprite_infantry = {
+		0 = gcup_SLE_INFANTRY_1
+		1 = gcup_SLE_INFANTRY_2
+		2 = gcup_SLE_INFANTRY_3
+		3 = gcup_SLE_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = gcup_SLE_CAVALRY_1
+		1 = gcup_SLE_CAVALRY_2
+		2 = gcup_SLE_CAVALRY_3
+		3 = gcup_SLE_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = gcup_SLE_ARTILLERY_1
+		1 = gcup_SLE_ARTILLERY_2
+		2 = gcup_SLE_ARTILLERY_3
+		3 = gcup_SLE_ARTILLERY_4
+	}
+}
+
+dlc098_nss_sprite_pack = {
+	country_trigger = {
+		always = no #Caribbean Pirates
+	}
+	sprite_infantry = {
+		0 = gcup_NSS_INFANTRY_1
+		1 = gcup_NSS_INFANTRY_2
+		2 = gcup_NSS_INFANTRY_3
+		3 = gcup_NSS_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = gcup_NSS_CAVALRY_1
+		1 = gcup_NSS_CAVALRY_2
+		2 = gcup_NSS_CAVALRY_3
+		3 = gcup_NSS_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = gcup_NSS_ARTILLERY_1
+		1 = gcup_NSS_ARTILLERY_2
+		2 = gcup_NSS_ARTILLERY_3
+		3 = gcup_NSS_ARTILLERY_4
+	}
+}
+

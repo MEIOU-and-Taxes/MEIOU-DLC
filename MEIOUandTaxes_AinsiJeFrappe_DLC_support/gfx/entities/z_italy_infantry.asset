@@ -1,0 +1,78 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+#####         Italy         #####
+
+entity = {
+	name = "NIC_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_NIC_infantry_01_mesh"
+	version = 9
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "PAP_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_PAP_infantry_01_mesh"
+	version = 9
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "GEN_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_GEN_infantry_01_mesh"
+	version = 9
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "MFT_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_MFT_infantry_01_mesh"
+	version = 9
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "SAL_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_SAL_infantry_01_mesh"
+	version = 9
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}

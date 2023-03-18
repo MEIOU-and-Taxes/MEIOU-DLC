@@ -1,0 +1,2489 @@
+	###################################################################################################################
+	#####                                                RIGHTS OF MAN                                            #####
+	###################################################################################################################
+	
+	#################################################################
+	##### 1. Infantry											#####
+	##### 2. Weapons											#####
+	##### 2. Cavalry											#####
+	##### 2. Artillery											#####
+	##### 2. Clones												#####
+	#################################################################
+	
+##Kanem Bornu (KBO)
+
+entity = {
+	name = "rigofman_KBO_INFANTRY_1"
+	pdxmesh = "rigofman_KBO_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_01"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_INFANTRY_2"
+	pdxmesh = "rigofman_KBO_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_INFANTRY_3"
+	pdxmesh = "rigofman_KBO_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_INFANTRY_4"
+	pdxmesh = "rigofman_KBO_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+##MOSSI (MSI)
+
+entity = {
+	name = "rigofman_MSI_INFANTRY_1"
+	pdxmesh = "rigofman_MSI_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_INFANTRY_2"
+	pdxmesh = "rigofman_MSI_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_INFANTRY_3"
+	pdxmesh = "rigofman_MSI_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_INFANTRY_4"
+	pdxmesh = "rigofman_MSI_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##MALI (MAL)
+entity = {
+	name = "rigofman_MAL_INFANTRY_1"
+	pdxmesh = "rigofman_MAL_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_INFANTRY_2"
+	pdxmesh = "rigofman_MAL_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_INFANTRY_3"
+	pdxmesh = "rigofman_MAL_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+	version = 20
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_INFANTRY_4"
+	pdxmesh = "rigofman_MAL_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##SONGHAI (SON)
+entity = {
+	name = "rigofman_SON_INFANTRY_1"
+	pdxmesh = "rigofman_SON_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_01"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_INFANTRY_2"
+	pdxmesh = "rigofman_SON_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_INFANTRY_3"
+	pdxmesh = "rigofman_SON_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_INFANTRY_4"
+	pdxmesh = "rigofman_SON_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##BENIN (BEN)
+entity = {
+	name = "rigofman_BEN_INFANTRY_1"
+	pdxmesh = "rigofman_BEN_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_02"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_INFANTRY_2"
+	pdxmesh = "rigofman_BEN_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_INFANTRY_3"
+	pdxmesh = "rigofman_BEN_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_INFANTRY_4"
+	pdxmesh = "rigofman_BEN_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##AIR (AIR)
+entity = {
+	name = "rigofman_AIR_INFANTRY_1"
+	pdxmesh = "rigofman_AIR_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_02"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_INFANTRY_2"
+	pdxmesh = "rigofman_AIR_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_INFANTRY_3"
+	pdxmesh = "rigofman_AIR_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_INFANTRY_4"
+	pdxmesh = "rigofman_AIR_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##HAUSA (HAU)
+entity = {
+	name = "rigofman_HAU_INFANTRY_1"
+	pdxmesh = "rigofman_HAU_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_02"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_INFANTRY_2"
+	pdxmesh = "rigofman_HAU_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_INFANTRY_3"
+	pdxmesh = "rigofman_HAU_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_INFANTRY_4"
+	pdxmesh = "rigofman_HAU_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+##TIMBUKTU (TBK)
+entity = {
+	name = "rigofman_TMB_INFANTRY_1"
+	pdxmesh = "rigofman_TMB_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_spear_02"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_INFANTRY_2"
+	pdxmesh = "rigofman_TMB_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_02"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_INFANTRY_3"
+	pdxmesh = "rigofman_TMB_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "african_rifle_03"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_INFANTRY_4"
+	pdxmesh = "rigofman_TMB_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	#state = { name = "death"		animation = "death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Left_hand_node = "western_musket_2"
+	}
+}
+
+###################################################################################################################
+#####                                                Weapons                                                  #####
+###################################################################################################################
+
+entity = {
+	name = "rigofman_w_african_spear_01"
+	pdxmesh = "rigofman_w_african_spear_01_mesh"
+	version = 11
+}
+entity = {
+	name = "rigofman_w_african_lance_01"
+	pdxmesh = "rigofman_w_african_lance_01_mesh"
+	version = 11
+}
+entity = {
+	name = "rigofman_w_african_saber_01"
+	pdxmesh = "rigofman_w_african_saber_01_mesh"
+	version = 11
+}
+entity = {
+	name = "rigofman_w_african_spear_02"
+	pdxmesh = "rigofman_w_african_spear_02_mesh"
+	version = 11
+}
+entity = {
+	name = "rigofman_w_african_lance_02"
+	pdxmesh = "rigofman_w_african_lance_02_mesh"
+	version = 11
+}
+entity = {
+	name = "rigofman_w_african_saber_02"
+	pdxmesh = "rigofman_w_african_saber_02_mesh"
+	version = 11
+}
+
+###################################################################################################################
+#####                                                CAVALRY                                                  #####
+###################################################################################################################
+
+##Kanem Bornu (KBO)
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_KBO_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_1_rider"
+	pdxmesh = "rigofman_KBO_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_01"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_KBO_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_2_rider"
+	pdxmesh = "rigofman_KBO_infantry_02_type1"
+	version = 11
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_KBO_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_3_rider"
+	pdxmesh = "rigofman_KBO_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_KBO_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_KBO_CAVALRY_4_rider"
+	pdxmesh = "rigofman_KBO_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+##MOSSI (MSI)
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MSI_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_1_rider"
+	pdxmesh = "rigofman_MSI_cavalry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MSI_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_2_rider"
+	pdxmesh = "rigofman_MSI_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MSI_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_3_rider"
+	pdxmesh = "rigofman_MSI_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MSI_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MSI_CAVALRY_4_rider"
+	pdxmesh = "rigofman_MSI_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+##MALI (MAL)
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MAL_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_1_rider"
+	pdxmesh = "rigofman_MAL_cavalry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MAL_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_2_rider"
+	pdxmesh = "rigofman_MAL_infantry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MAL_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_3_rider"
+	pdxmesh = "rigofman_MAL_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_MAL_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_MAL_CAVALRY_4_rider"
+	pdxmesh = "rigofman_MAL_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+##SONGHAI (SON)
+
+entity = {
+	name = "rigofman_SON_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_SON_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_1_rider"
+	pdxmesh = "rigofman_SON_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_01"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_SON_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_2_rider"
+	pdxmesh = "rigofman_SON_cavalry_02_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_SON_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_3_rider"
+	pdxmesh = "rigofman_SON_cavalry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_SON_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_SON_CAVALRY_4_rider"
+	pdxmesh = "rigofman_SON_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_01"
+	}
+}
+##Benin (BEN)
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_BEN_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_1_rider"
+	pdxmesh = "rigofman_BEN_cavalry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_02"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_BEN_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_2_rider"
+	pdxmesh = "rigofman_BEN_infantry_02_type1"
+	version = 11
+
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_BEN_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_3_rider"
+	pdxmesh = "rigofman_BEN_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_BEN_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_BEN_CAVALRY_4_rider"
+	pdxmesh = "rigofman_BEN_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+##AIR (AIR)
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_AIR_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_1_rider"
+	pdxmesh = "rigofman_AIR_infantry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_02"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_AIR_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_2_rider"
+	pdxmesh = "rigofman_AIR_infantry_02_type1"
+	version = 11
+
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_AIR_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_3_rider"
+	pdxmesh = "rigofman_AIR_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_AIR_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_AIR_CAVALRY_4_rider"
+	pdxmesh = "rigofman_AIR_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+##HAU (HAU)
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_HAU_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_1_rider"
+	pdxmesh = "rigofman_HAU_cavalry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_02"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_HAU_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_2_rider"
+	pdxmesh = "rigofman_HAU_cavalry_02_type1"
+	version = 11
+
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_HAU_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_3_rider"
+	pdxmesh = "rigofman_HAU_cavalry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_HAU_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_HAU_CAVALRY_4_rider"
+	pdxmesh = "rigofman_HAU_cavalry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+##TiMBuktu (TBK)
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_1"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_TMB_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_1_rider"
+	pdxmesh = "rigofman_TMB_cavalry_01_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_lance_02"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_2"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_TMB_CAVALRY_2_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_2_rider"
+	pdxmesh = "rigofman_TMB_infantry_02_type1"
+	version = 11
+
+	
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_3"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_TMB_CAVALRY_3_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_3_rider"
+	pdxmesh = "rigofman_TMB_infantry_03_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_4"
+	pdxmesh = "rigofman_w_african_cavalry_horse_01_mesh"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		name = "rider"
+		Saddle_Node = "rigofman_TMB_CAVALRY_4_rider"
+	}
+}
+
+entity = {
+	name = "rigofman_TMB_CAVALRY_4_rider"
+	pdxmesh = "rigofman_TMB_infantry_04_type1"
+	version = 11
+
+	state = { name = "idle" 		animation = "horse_idle" }
+	state = { name = "walk" 		animation = "horse_walk" }
+	state = { name = "attack"		animation = "horse_attack" }
+	state = { name = "retreat"		animation = "horse_retreat" }
+	#state = { name = "death"		animation = "horse_death" }
+	#state = { name = "extra_state_1"		animation = "extra_state_1" }
+	#state = { name = "extra_state_2"		animation = "extra_state_2" }
+	#state = { name = "extra_state_3"		animation = "extra_state_3" }
+
+	attach = {
+		Right_hand_node = "rigofman_w_african_saber_02"
+	}
+}
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                                   ARTILLERY                                             #####
+#####                                                                                                         #####
+###################################################################################################################
+
+##Kanem Bornu (KBO)
+entity = {
+	name = "rigofman_KBO_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_KBO_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_KBO_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_KBO_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_KBO_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_KBO_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_KBO_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_KBO_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+##MOSSI (MSI)
+entity = {
+	name = "rigofman_MSI_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MSI_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MSI_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MSI_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MSI_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MSI_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MSI_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MSI_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+##MALI (MAL)
+entity = {
+	name = "rigofman_MAL_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MAL_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MAL_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MAL_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MAL_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MAL_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_MAL_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_MAL_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+##SONGHAI (SON)
+entity = {
+	name = "rigofman_SON_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_SON_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_SON_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_SON_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_SON_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_SON_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_SON_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_SON_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+
+##BENIN (BEN)
+entity = {
+	name = "rigofman_BEN_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_BEN_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_BEN_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_BEN_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_BEN_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_BEN_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_BEN_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_BEN_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+
+##AIR (AIR)
+entity = {
+	name = "rigofman_AIR_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_AIR_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_AIR_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_AIR_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_AIR_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_AIR_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_AIR_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_AIR_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+##HAUSA (HAU)
+entity = {
+	name = "rigofman_HAU_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_HAU_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_HAU_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_HAU_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_HAU_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_HAU_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_HAU_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_HAU_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}
+##TIMBUKTU (TBK)
+entity = {
+	name = "rigofman_TMB_ARTILLERY_1"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_TMB_INFANTRY_1"
+		cannon_node = "africangfx_ARTILLERY_1_cannon"
+	}
+}
+entity = {
+	name = "rigofman_TMB_ARTILLERY_2"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_TMB_INFANTRY_2"
+		cannon_node = "africangfx_ARTILLERY_2_cannon"
+	}
+}
+entity = {
+	name = "rigofman_TMB_ARTILLERY_3"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_TMB_INFANTRY_3"
+		cannon_node = "africangfx_ARTILLERY_3_cannon"
+	}
+}
+entity = {
+	name = "rigofman_TMB_ARTILLERY_4"
+	pdxmesh = "artillery_base_mesh"
+	version = 11
+	
+	state = { name = "attack"		animation = "artillery_base_attack" }
+	state = { name = "idle" 		animation = "artillery_base_idle" }
+	#state = { name = "death" 		animation = "artillery_base_idle" }
+	state = { name = "walk" 		animation = "artillery_base_moving" }
+	state = { name = "retreat" 		animation = "artillery_base_moving" }
+	
+	attach = {
+		name = "gunman"
+		infantry_node = "rigofman_TMB_INFANTRY_4"
+		cannon_node = "africangfx_ARTILLERY_4_cannon"
+	}
+}

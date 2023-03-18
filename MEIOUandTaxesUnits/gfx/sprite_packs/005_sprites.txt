@@ -1,0 +1,18 @@
+
+dlc005_usa_sprite_pack = {
+	country_trigger = {
+		tag = USA
+	}
+	sprite_infantry = {
+		2 = USA_INFANTRY_3_amddlc
+		3 = USA_INFANTRY_4_amddlc
+	}
+	sprite_cavalry = {
+		2 = USA_CAVALRY_3_amddlc
+		3 = USA_CAVALRY_4_amddlc
+	}
+	sprite_artillery = {
+		2 = USA_ARTILLERY_3_amddlc
+		3 = USA_ARTILLERY_4_amddlc
+	}
+}

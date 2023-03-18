@@ -1,0 +1,2803 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_tartar_group_philosopher"
+		texturefile = "gfx//interface//advisors//cossack_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_philosopher_female"
+			texturefile = "gfx//interface//advisors//cossack_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_natural_scientist"
+		texturefile = "gfx//interface//advisors//cossack_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//cossack_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_artist"
+		texturefile = "gfx//interface//advisors//cossack_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_artist_female"
+			texturefile = "gfx//interface//advisors//cossack_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_statesman_NO"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_statesman_BG"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_statesman_CL"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_statesman_BU"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_treasurer_NO"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_treasurer_BG"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_treasurer_BU"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_trader_BG"
+		texturefile = "gfx//interface//advisors//cossack_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_trader_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_theologian_CL"
+		texturefile = "gfx//interface//advisors//cossack_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_spymaster_NO"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_tartar_group_spymaster_BU"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_diplomat_NO"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_diplomat_BG"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_tartar_group_diplomat_TR"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_diplomat_BU"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_navigator_ML"
+		texturefile = "gfx//interface//advisors//cossack_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//cossack_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_commandant_ML"
+		texturefile = "gfx//interface//advisors//cossack_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//cossack_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_tartar_group_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//cossack_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_tartar_group_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_altaic_philosopher"
+		texturefile = "gfx//interface//advisors//cossack_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_philosopher_female"
+			texturefile = "gfx//interface//advisors//cossack_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_natural_scientist"
+		texturefile = "gfx//interface//advisors//cossack_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//cossack_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_artist"
+		texturefile = "gfx//interface//advisors//cossack_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_artist_female"
+			texturefile = "gfx//interface//advisors//cossack_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_statesman_NO"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_statesman_BG"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_statesman_CL"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_statesman_BU"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_treasurer_NO"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_treasurer_BG"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_treasurer_BU"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_trader_BG"
+		texturefile = "gfx//interface//advisors//cossack_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_trader_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_theologian_CL"
+		texturefile = "gfx//interface//advisors//cossack_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_spymaster_NO"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_altaic_spymaster_BU"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_diplomat_NO"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_diplomat_BG"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_altaic_diplomat_TR"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_diplomat_BU"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_navigator_ML"
+		texturefile = "gfx//interface//advisors//cossack_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//cossack_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_commandant_ML"
+		texturefile = "gfx//interface//advisors//cossack_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//cossack_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_altaic_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//cossack_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_altaic_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_uralic_group_philosopher"
+		texturefile = "gfx//interface//advisors//cossack_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_philosopher_female"
+			texturefile = "gfx//interface//advisors//cossack_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_natural_scientist"
+		texturefile = "gfx//interface//advisors//cossack_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//cossack_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_artist"
+		texturefile = "gfx//interface//advisors//cossack_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_artist_female"
+			texturefile = "gfx//interface//advisors//cossack_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_statesman_NO"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_statesman_BG"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_statesman_CL"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_statesman_BU"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_treasurer_NO"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_treasurer_BG"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_treasurer_BU"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_trader_BG"
+		texturefile = "gfx//interface//advisors//cossack_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_trader_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_theologian_CL"
+		texturefile = "gfx//interface//advisors//cossack_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_spymaster_NO"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_uralic_group_spymaster_BU"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_diplomat_NO"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_diplomat_BG"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_uralic_group_diplomat_TR"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_diplomat_BU"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_navigator_ML"
+		texturefile = "gfx//interface//advisors//cossack_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//cossack_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_commandant_ML"
+		texturefile = "gfx//interface//advisors//cossack_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//cossack_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_group_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//cossack_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_group_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_philosopher"
+		texturefile = "gfx//interface//advisors//cossack_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_philosopher_female"
+			texturefile = "gfx//interface//advisors//cossack_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_natural_scientist"
+		texturefile = "gfx//interface//advisors//cossack_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//cossack_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_artist"
+		texturefile = "gfx//interface//advisors//cossack_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_artist_female"
+			texturefile = "gfx//interface//advisors//cossack_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_statesman_NO"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_statesman_BG"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_statesman_CL"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_statesman_BU"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_treasurer_NO"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_treasurer_BG"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_treasurer_BU"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_trader_BG"
+		texturefile = "gfx//interface//advisors//cossack_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_trader_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_theologian_CL"
+		texturefile = "gfx//interface//advisors//cossack_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_spymaster_NO"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_spymaster_BU"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_diplomat_NO"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_diplomat_BG"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_diplomat_TR"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_diplomat_BU"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_navigator_ML"
+		texturefile = "gfx//interface//advisors//cossack_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//cossack_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_commandant_ML"
+		texturefile = "gfx//interface//advisors//cossack_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//cossack_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_yeniseian_group_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//cossack_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_yeniseian_group_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_philosopher"
+		texturefile = "gfx//interface//advisors//cossack_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_philosopher_female"
+			texturefile = "gfx//interface//advisors//cossack_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_natural_scientist"
+		texturefile = "gfx//interface//advisors//cossack_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//cossack_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_artist"
+		texturefile = "gfx//interface//advisors//cossack_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_artist_female"
+			texturefile = "gfx//interface//advisors//cossack_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_statesman_NO"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_statesman_BG"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_statesman_CL"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_statesman_BU"
+		texturefile = "gfx//interface//advisors//cossack_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_treasurer_NO"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_treasurer_BG"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_treasurer_BU"
+		texturefile = "gfx//interface//advisors//cossack_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_trader_BG"
+		texturefile = "gfx//interface//advisors//cossack_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_trader_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_theologian_CL"
+		texturefile = "gfx//interface//advisors//cossack_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_spymaster_NO"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_spymaster_BU"
+		texturefile = "gfx//interface//advisors//cossack_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//cossack_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_diplomat_NO"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_diplomat_BG"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_diplomat_TR"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_diplomat_BU"
+		texturefile = "gfx//interface//advisors//cossack_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//cossack_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//cossack_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_navigator_ML"
+		texturefile = "gfx//interface//advisors//cossack_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//cossack_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//cossack_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_commandant_ML"
+		texturefile = "gfx//interface//advisors//cossack_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//cossack_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//cossack_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//cossack_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_kamchatkan_group_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//cossack_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_kamchatkan_group_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//cossack_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+}

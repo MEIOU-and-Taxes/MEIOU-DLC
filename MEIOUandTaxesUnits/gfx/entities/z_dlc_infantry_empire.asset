@@ -1,0 +1,204 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+#####         Empire        #####
+
+entity = {
+	name = "HAB_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_HAB_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "BNT_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_BNT_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "PDB_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_PDB_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "MRK_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_MRK_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "FRD_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_FRD_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "MUN_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_MUN_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "RAV_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_RAV_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "TCK_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_TCK_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "OSN_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_OSN_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "BAR_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_BAR_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+	name = "MTV_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_MTV_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+    name = "LOR_HYW_INFANTRY_1"
+    pdxmesh = "hwarup_LOR_infantry_01_mesh"
+    version = 10
+    state = { name = "idle"         animation = "idle" }
+    state = { name = "walk"         animation = "walk" }
+    state = { name = "attack"        animation = "attack" }
+    state = { name = "retreat"        animation = "retreat" }
+    
+    attach = {
+        Right_hand_node = "hwarup_BUR_01_spear_entity"
+    }
+}
+
+entity = {
+	name = "STR_HYW_INFANTRY_1"
+	pdxmesh = "hwarup_STR_infantry_01_mesh"
+	version = 10
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+	
+	attach = {
+		Right_hand_node = "hwarup_BUR_01_spear_entity"
+	}
+}
+
+entity = {
+    name = "BAD_HYW_INFANTRY_1"
+    pdxmesh = "hwarup_BAD_infantry_01_mesh"
+    version = 10
+    state = { name = "idle"         animation = "idle" }
+    state = { name = "walk"         animation = "walk" }
+    state = { name = "attack"        animation = "attack" }
+    state = { name = "retreat"        animation = "retreat" }
+    
+    attach = {
+        Right_hand_node = "hwarup_BUR_01_spear_entity"
+    }
+}

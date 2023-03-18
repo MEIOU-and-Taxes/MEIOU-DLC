@@ -1,0 +1,263 @@
+
+dlc107_aboriginal_sprite_pack = {
+	country_trigger = {
+			culture_group = papuan_group
+	}
+	sprite_infantry = {
+		0 = aboriginal_INFANTRY_1
+		1 = aboriginal_INFANTRY_2
+		2 = aboriginal_INFANTRY_2
+		3 = aboriginal_INFANTRY_2
+	}
+	sprite_cavalry = {
+		0 = aboriginal_CAVALRY_1
+		1 = aboriginal_CAVALRY_1
+		2 = aboriginal_CAVALRY_1
+		3 = aboriginal_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = aboriginal_ARTILLERY_1
+		1 = aboriginal_ARTILLERY_2
+		2 = aboriginal_ARTILLERY_2
+		3 = aboriginal_ARTILLERY_2
+	}
+}
+
+dlc107_polynesian_sprite_pack = {
+	country_trigger = {
+		culture_group = pacific
+	}
+	sprite_infantry = {
+		0 = polynesian_INFANTRY_1
+		1 = polynesian_INFANTRY_2
+		2 = polynesian_INFANTRY_2
+		3 = polynesian_INFANTRY_2
+	}
+	sprite_cavalry = {
+		0 = polynesian_CAVALRY_1
+		1 = polynesian_CAVALRY_1
+		2 = polynesian_CAVALRY_1
+		3 = polynesian_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = polynesian_ARTILLERY_1
+		1 = polynesian_ARTILLERY_2
+		2 = polynesian_ARTILLERY_2
+		3 = polynesian_ARTILLERY_2
+	}
+}
+
+dlc107_MAJ_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = minang
+			primary_culture = batak
+			culture_group = wallacean
+			culture_group = papuan_group
+		}
+	}
+
+	sprite_infantry = {
+		0 = leviathan_MAJ_INFANTRY_1
+		1 = leviathan_MAJ_INFANTRY_2
+		2 = leviathan_MAJ_INFANTRY_3
+		3 = leviathan_MAJ_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = leviathan_MAJ_CAVALRY_1
+		1 = leviathan_MAJ_CAVALRY_2
+		2 = leviathan_MAJ_CAVALRY_3
+		3 = leviathan_MAJ_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = leviathan_MAJ_ARTILLERY_1
+		1 = leviathan_MAJ_ARTILLERY_2
+		2 = leviathan_MAJ_ARTILLERY_3
+		3 = leviathan_MAJ_ARTILLERY_4
+	}
+}
+
+dlc107_BEI_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = bornean
+			culture_group = filipino_group
+		}
+	}
+	sprite_infantry = {
+		0 = leviathan_BEI_INFANTRY_1
+		1 = leviathan_BEI_INFANTRY_2
+		2 = leviathan_BEI_INFANTRY_3
+		3 = leviathan_BEI_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_BEI_CAVALRY_1
+		1 = leviathan_BEI_CAVALRY_2
+		2 = leviathan_BEI_CAVALRY_3
+		3 = leviathan_BEI_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_BEI_ARTILLERY_1
+		1 = leviathan_BEI_ARTILLERY_2
+		2 = leviathan_BEI_ARTILLERY_3
+		3 = leviathan_BEI_ARTILLERY_4
+	}
+}
+
+dlc107_MLC_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = malayan
+			culture_group = javan_group
+		}
+	}
+	sprite_infantry = {
+		0 = leviathan_MLC_INFANTRY_1
+		1 = leviathan_MLC_INFANTRY_2
+		2 = leviathan_MLC_INFANTRY_3
+		3 = leviathan_MLC_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_MLC_CAVALRY_1
+		1 = leviathan_MLC_CAVALRY_2
+		2 = leviathan_MLC_CAVALRY_3
+		3 = leviathan_MLC_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_MLC_ARTILLERY_1
+		1 = leviathan_MLC_ARTILLERY_2
+		2 = leviathan_MLC_ARTILLERY_3
+		3 = leviathan_MLC_ARTILLERY_4
+	}
+}
+
+dlc107_PGR_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = sumatran
+			primary_culture = acehnese
+		}
+	}
+	sprite_infantry = {
+		0 = leviathan_PGR_INFANTRY_1
+		1 = leviathan_PGR_INFANTRY_2
+		2 = leviathan_PGR_INFANTRY_3
+		3 = leviathan_PGR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_PGR_CAVALRY_1
+		1 = leviathan_PGR_CAVALRY_2
+		2 = leviathan_PGR_CAVALRY_3
+		3 = leviathan_PGR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_PGR_ARTILLERY_1
+		1 = leviathan_PGR_ARTILLERY_2
+		2 = leviathan_PGR_ARTILLERY_3
+		3 = leviathan_PGR_ARTILLERY_4
+	}
+}
+
+dlc107_AYU_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = AYU
+			primary_culture = thai
+		}
+	}
+	sprite_infantry = {
+		0 = leviathan_AYU_INFANTRY_1
+		1 = leviathan_AYU_INFANTRY_2
+		2 = leviathan_AYU_INFANTRY_3
+		3 = leviathan_AYU_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_AYU_CAVALRY_1
+		1 = leviathan_AYU_CAVALRY_2
+		2 = leviathan_AYU_CAVALRY_3
+		3 = leviathan_AYU_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_AYU_ARTILLERY_1
+		1 = leviathan_AYU_ARTILLERY_2
+		2 = leviathan_AYU_ARTILLERY_3
+		3 = leviathan_AYU_ARTILLERY_4
+	}
+}
+
+dlc107_CHA_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = mon_khmer
+			primary_culture = cham
+		}
+	}
+	sprite_infantry = {
+		0 = leviathan_CHA_INFANTRY_1
+		1 = leviathan_CHA_INFANTRY_2
+		2 = leviathan_CHA_INFANTRY_3
+		3 = leviathan_CHA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_CHA_CAVALRY_1
+		1 = leviathan_CHA_CAVALRY_2
+		2 = leviathan_CHA_CAVALRY_3
+		3 = leviathan_CHA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_CHA_ARTILLERY_1
+		1 = leviathan_CHA_ARTILLERY_2
+		2 = leviathan_CHA_ARTILLERY_3
+		3 = leviathan_CHA_ARTILLERY_4
+	}
+}
+
+dlc107_LNA_sprite_pack = {
+	country_trigger = {
+		primary_culture = lanna
+	}
+	sprite_infantry = {
+		0 = leviathan_LNA_INFANTRY_1
+		1 = leviathan_LNA_INFANTRY_2
+		2 = leviathan_LNA_INFANTRY_3
+		3 = leviathan_LNA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_LNA_CAVALRY_1
+		1 = leviathan_LNA_CAVALRY_2
+		2 = leviathan_LNA_CAVALRY_3
+		3 = leviathan_LNA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_LNA_ARTILLERY_1
+		1 = leviathan_LNA_ARTILLERY_2
+		2 = leviathan_LNA_ARTILLERY_3
+		3 = leviathan_LNA_ARTILLERY_4
+	}
+}
+
+dlc107_LUA_sprite_pack = {
+	country_trigger = {
+		primary_culture = laotian
+	}
+	sprite_infantry = {
+		0 = leviathan_LUA_INFANTRY_1
+		1 = leviathan_LUA_INFANTRY_2
+		2 = leviathan_LUA_INFANTRY_3
+		3 = leviathan_LUA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = leviathan_LUA_CAVALRY_1
+		1 = leviathan_LUA_CAVALRY_2
+		2 = leviathan_LUA_CAVALRY_3
+		3 = leviathan_LUA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = leviathan_LUA_ARTILLERY_1
+		1 = leviathan_LUA_ARTILLERY_2
+		2 = leviathan_LUA_ARTILLERY_3
+		3 = leviathan_LUA_ARTILLERY_4
+	}
+}

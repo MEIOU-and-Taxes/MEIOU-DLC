@@ -1,0 +1,12 @@
+objectTypes = {
+
+#######SERgfx
+	
+	pdxmesh = {
+		name = "knight_shield"
+		file = "gfx/models/Units/knight_shield.mesh"
+		
+		scale = 0.35
+	}
+
+}

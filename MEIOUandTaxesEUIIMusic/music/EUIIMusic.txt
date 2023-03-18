@@ -1,0 +1,1233 @@
+
+#EUII Music
+#1419-1519 in EUII
+song = {
+	name = "Saltarello (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Estampie (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Rosa Bella (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Del Encina (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Nel Bosco Senca Foglie (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Falalalan (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Triste Espana (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+		factor = 1
+	name = "Hoffdantz (EUII)"
+	
+	chance = {
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Danza Alta (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1500
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Im Maien (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1420
+			NOT = { is_year = 1520 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1420 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1520
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+#1519-1619 in EUII
+song = {
+	name = "Entré du Fol (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Il estoit une filette (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Phalese (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Gaudete (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Morley (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "In Dulci Jubilo (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Santarello (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Upsala (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Vulpius (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1500
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1500 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1610
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+#1619-1719 in EUII
+song = {
+	name = "La Mignone (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Gigue (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Allemande (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "George Whitehead (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Mistress Nichols Almand (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Nicho Gryffith (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Furioso (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Spagnioletta (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Domine Exaudi (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Canzona La Bavara (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Sonata In D Minor (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Das Wort Ward Fleisch (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Unser Keiner Lebet Ihm Selber (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1610
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1610 }
+		}
+		modifier = {
+			factor = 0
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+#1719-1819 in EUII
+song = {
+	name = "String Quartet No2 - Andante (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Prelude and Fugue F Minor (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Prelude and Fugue A Minor (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "String Quartet No1 - Adagio (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Minuetto In Canone (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "String Quintet No2 - Allegro (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Piano Concerto B Flat - Adagio (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Rondo Molto Allegro (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Gloria In Excelsis Deo (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Laudamus Te (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Juravit Dominus (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Dixit Dominus (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Les Folies Francoises (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "La Du Breuil (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Cancer (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Poco Sostenuto (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "L'Engageante (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Spring (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Summer (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Autumn (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}
+
+song = {
+	name = "Winter (EUII)"
+	
+	chance = {
+		factor = 1
+		modifier = {
+			factor = 1.25
+			technology_group = western
+			is_year = 1720
+		}
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1720 }
+		}
+		modifier = {
+			factor = 0
+			NOT = { technology_group = western }
+		}
+	}
+}

@@ -1,0 +1,144 @@
+
+dlc057_eth_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = ETH
+			tag = MED
+			tag = SEM
+			tag = SID
+			tag = SEN
+			tag = BAE
+			tag = DAW
+			tag = HDA
+			tag = HDY
+		}
+	}
+	sprite_infantry = {
+		0 = A57_INFANTRY_1
+		1 = A57_INFANTRY_2
+		2 = A57_INFANTRY_3
+		3 = A57_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = A57_CAVALRY_1
+		1 = A57_CAVALRY_2
+		2 = A57_CAVALRY_3
+		3 = A57_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = A57_ARTILLERY_1
+		1 = A57_ARTILLERY_2
+		2 = A57_ARTILLERY_3
+		3 = A57_ARTILLERY_4
+	}
+}
+
+dlc057_nub_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = NUB
+			tag = ALW
+			tag = MKU
+			tag = SLL
+			tag = FUN
+			tag = KDF
+		}
+	}
+	sprite_infantry = {
+		0 = B57_INFANTRY_1
+		1 = B57_INFANTRY_2
+		2 = B57_INFANTRY_3
+		3 = B57_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = B57_CAVALRY_1
+		1 = B57_CAVALRY_2
+		2 = B57_CAVALRY_3
+		3 = B57_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = B57_ARTILLERY_1
+		1 = B57_ARTILLERY_2
+		2 = B57_ARTILLERY_3
+		3 = B57_ARTILLERY_4
+	}
+}
+
+dlc057_mdi_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = MDI
+			tag = AJU
+			tag = MOG
+			tag = MRE
+			tag = WAR
+			tag = AFA
+			tag = HAR
+			tag = GLE
+			tag = IFA
+			tag = DBA
+			tag = ADA
+			tag = SHE
+		}
+	}
+	sprite_infantry = {
+		0 = C57_INFANTRY_1
+		1 = C57_INFANTRY_2
+		2 = C57_INFANTRY_3
+		3 = C57_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = C57_CAVALRY_1
+		1 = C57_CAVALRY_2
+		2 = C57_CAVALRY_3
+		3 = C57_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = C57_ARTILLERY_1
+		1 = C57_ARTILLERY_2
+		2 = C57_ARTILLERY_3
+		3 = C57_ARTILLERY_4
+	}
+}
+
+dlc057_zan_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = ZZB
+			tag = KIL
+			tag = MBA
+			tag = MLI
+			tag = PTE
+			tag = QLM
+			tag = SOF
+			tag = MKA
+			tag = ZIM
+			tag = BUT
+			tag = TMB
+			tag = MNK
+			tag = SED
+			tag = QTV
+			tag = BUE
+			tag = LDU
+			tag = KIT
+		}
+	}
+	sprite_infantry = {
+		0 = D57_INFANTRY_1
+		1 = D57_INFANTRY_2
+		2 = D57_INFANTRY_3
+		3 = D57_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = D57_CAVALRY_1
+		1 = D57_CAVALRY_2
+		2 = D57_CAVALRY_3
+		3 = D57_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = D57_ARTILLERY_1
+		1 = D57_ARTILLERY_2
+		2 = D57_ARTILLERY_3
+		3 = D57_ARTILLERY_4
+	}
+}

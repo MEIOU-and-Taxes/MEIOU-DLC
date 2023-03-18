@@ -1,0 +1,77 @@
+dlc034_inc_sprite_pack = {
+	country_trigger = {
+		culture_group = andean_group
+		primary_culture = aimara
+		primary_culture = colla
+	}
+	sprite_infantry = {
+		0 = soamup_INC_INFANTRY_1
+		1 = soamup_INC_INFANTRY_2
+		2 = soamup_INC_INFANTRY_3
+		3 = soamup_INC_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = soamup_INC_CAVALRY_1
+		1 = soamup_INC_CAVALRY_2
+		2 = soamup_INC_CAVALRY_3
+		3 = soamup_INC_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = soamup_INC_ARTILLERY_1
+		1 = soamup_INC_ARTILLERY_2
+		2 = soamup_INC_ARTILLERY_3
+		3 = soamup_INC_ARTILLERY_4
+	}
+}
+
+dlc034_mpc_sprite_pack = {
+	country_trigger = {
+		culture_group = mapuchan
+	}
+	sprite_infantry = {
+		0 = soamup_MPC_INFANTRY_1
+		1 = soamup_MPC_INFANTRY_2
+		2 = soamup_MPC_INFANTRY_3
+		3 = soamup_MPC_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = soamup_MPC_CAVALRY_1
+		1 = soamup_MPC_CAVALRY_2
+		2 = soamup_MPC_CAVALRY_3
+		3 = soamup_MPC_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = soamup_MPC_ARTILLERY_1
+		1 = soamup_MPC_ARTILLERY_2
+		2 = soamup_MPC_ARTILLERY_3
+		3 = soamup_MPC_ARTILLERY_4
+	}
+}
+
+dlc034_tpa_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = aimara
+			primary_culture = colla
+		}
+	}
+	sprite_infantry = {
+		0 = soamup_TPA_INFANTRY_1
+		1 = soamup_TPA_INFANTRY_2
+		2 = soamup_TPA_INFANTRY_3
+		3 = soamup_TPA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = soamup_TPA_CAVALRY_1
+		1 = soamup_TPA_CAVALRY_2
+		2 = soamup_TPA_CAVALRY_3
+		3 = soamup_TPA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = soamup_TPA_ARTILLERY_1
+		1 = soamup_TPA_ARTILLERY_2
+		2 = soamup_TPA_ARTILLERY_3
+		3 = soamup_TPA_ARTILLERY_4
+	}
+}
+

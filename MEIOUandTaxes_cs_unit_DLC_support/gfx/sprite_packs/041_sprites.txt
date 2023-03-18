@@ -1,0 +1,118 @@
+
+dlc041_tib_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = TIB
+			tag = UTS
+			tag = GUG
+			tag = MDO
+			tag = LDK
+		}
+	}
+	sprite_infantry = {
+		0 = A41_INFANTRY_1
+		1 = A41_INFANTRY_2
+		2 = A41_INFANTRY_3
+		3 = A41_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = A41_CAVALRY_1
+		1 = A41_CAVALRY_2
+		2 = A41_CAVALRY_3
+		3 = A41_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = A41_ARTILLERY_1
+		1 = A41_ARTILLERY_2
+		2 = A41_ARTILLERY_3
+		3 = A41_ARTILLERY_4
+	}
+}
+
+dlc041_dai_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = DAI
+			tag = CHA
+			tag = KHM
+			tag = ANN
+			tag = TOK
+		}
+	}
+	sprite_infantry = {
+		0 = B41_INFANTRY_1
+		1 = B41_INFANTRY_2
+		2 = B41_INFANTRY_3
+		3 = B41_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = B41_CAVALRY_1
+		1 = B41_CAVALRY_2
+		2 = B41_CAVALRY_3
+		3 = B41_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = B41_ARTILLERY_1
+		1 = B41_ARTILLERY_2
+		2 = B41_ARTILLERY_3
+		3 = B41_ARTILLERY_4
+	}
+}
+
+dlc041_lxa_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = LXA
+			tag = LUA
+			tag = LNA
+			tag = CHK
+		}
+	}
+
+	sprite_infantry = {
+		0 = C41_INFANTRY_1
+		1 = C41_INFANTRY_2
+		2 = C41_INFANTRY_3
+		3 = C41_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = C41_CAVALRY_1
+		1 = C41_CAVALRY_2
+		2 = C41_CAVALRY_3
+		3 = C41_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = C41_ARTILLERY_1
+		1 = C41_ARTILLERY_2
+		2 = C41_ARTILLERY_3
+		3 = C41_ARTILLERY_4
+	}
+}
+
+dlc041_cey_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = CEY
+			tag = JAF
+			tag = KTH
+		}
+	}
+	sprite_infantry = {
+		0 = D41_INFANTRY_1
+		1 = D41_INFANTRY_2
+		2 = D41_INFANTRY_3
+		3 = D41_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = D41_CAVALRY_1
+		1 = D41_CAVALRY_2
+		2 = D41_CAVALRY_3
+		3 = D41_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = D41_ARTILLERY_1
+		1 = D41_ARTILLERY_2
+		2 = D41_ARTILLERY_3
+		3 = D41_ARTILLERY_4
+	}
+}

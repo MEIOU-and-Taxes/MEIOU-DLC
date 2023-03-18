@@ -1,0 +1,6 @@
+######SERGFx
+entity = {
+	name = "knight_shield"
+	pdxmesh = "knight_shield"
+}
+

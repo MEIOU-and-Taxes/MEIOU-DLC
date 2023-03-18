@@ -1,0 +1,104 @@
+
+dlc012_apa_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = APA
+			tag = PUE
+			tag = PAM
+			tag = GCC
+			tag = ZCT
+			tag = TPC
+			tag = CXC
+			tag = TCX
+			tag = GMR
+		}
+	}
+	sprite_infantry = { 0 = APA_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = APA_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = APA_ARTILLERY_1_naupa }
+}
+
+dlc012_com_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = COM
+			tag = PAW
+		}
+	}
+	sprite_infantry = { 0 = COM_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = COM_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = COM_ARTILLERY_1_naupa }
+}
+
+dlc012_sha_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SHA
+			tag = POW
+		}
+	}
+	sprite_infantry = { 0 = SHA_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = SHA_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = SHA_ARTILLERY_1_naupa }
+}
+
+dlc012_che_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = CHE
+			tag = CAD
+			tag = OSA
+		}
+	}
+	sprite_infantry = { 0 = CHE_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = CHE_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = CHE_ARTILLERY_1_naupa }
+}
+
+dlc012_cre_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = CRE
+			tag = CHO
+		}
+	}
+	sprite_infantry = { 0 = CRE_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = CRE_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = CRE_ARTILLERY_1_naupa }
+}
+
+dlc012_hur_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = HUR
+			tag = ABE
+		}
+	}
+	sprite_infantry = { 0 = HUR_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = HUR_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = HUR_ARTILLERY_1_naupa }
+}
+
+dlc012_iro_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = IRO
+			tag = SSQ
+		}
+	}
+	sprite_infantry = { 0 = IRO_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = IRO_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = IRO_ARTILLERY_1_naupa }
+}
+
+dlc012_sio_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SIO
+			tag = BLA
+		}
+	}
+	sprite_infantry = { 0 = SIO_INFANTRY_1_naupa }
+	sprite_cavalry = { 0 = SIO_CAVALRY_1_naupa }
+	sprite_artillery = { 0 = SIO_ARTILLERY_1_naupa }
+}

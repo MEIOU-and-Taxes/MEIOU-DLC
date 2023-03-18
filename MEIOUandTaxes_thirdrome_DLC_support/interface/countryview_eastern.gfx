@@ -1,0 +1,1123 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_east_slavic_philosopher"
+		texturefile = "gfx//interface//advisors//russian_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_philosopher_female"
+			texturefile = "gfx//interface//advisors//russian_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_natural_scientist"
+		texturefile = "gfx//interface//advisors//russian_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//russian_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_artist"
+		texturefile = "gfx//interface//advisors//russian_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_artist_female"
+			texturefile = "gfx//interface//advisors//russian_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_statesman_NO"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_statesman_BG"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_statesman_CL"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_statesman_BU"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_treasurer_NO"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_treasurer_BG"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_treasurer_BU"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//russian_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//russian_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//russian_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//russian_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_trader_BG"
+		texturefile = "gfx//interface//advisors//russian_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_trader_BG_female"
+			texturefile = "gfx//interface//advisors//russian_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_theologian_CL"
+		texturefile = "gfx//interface//advisors//russian_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//russian_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_spymaster_NO"
+		texturefile = "gfx//interface//advisors//russian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//russian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_east_slavic_spymaster_BU"
+		texturefile = "gfx//interface//advisors//russian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//russian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_diplomat_NO"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_diplomat_BG"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_east_slavic_diplomat_TR"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_diplomat_BU"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//russian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//russian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//russian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//russian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_navigator_ML"
+		texturefile = "gfx//interface//advisors//russian_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//russian_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//russian_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//russian_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//russian_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//russian_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_commandant_ML"
+		texturefile = "gfx//interface//advisors//russian_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//russian_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//russian_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//russian_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//russian_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//russian_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//russian_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//russian_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_east_slavic_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//russian_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_east_slavic_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//russian_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_uralic_philosopher"
+		texturefile = "gfx//interface//advisors//russian_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_philosopher_female"
+			texturefile = "gfx//interface//advisors//russian_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_natural_scientist"
+		texturefile = "gfx//interface//advisors//russian_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//russian_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_artist"
+		texturefile = "gfx//interface//advisors//russian_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_artist_female"
+			texturefile = "gfx//interface//advisors//russian_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_statesman_NO"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_statesman_BG"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_statesman_CL"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_statesman_BU"
+		texturefile = "gfx//interface//advisors//russian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//russian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_treasurer_NO"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_treasurer_BG"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_treasurer_BU"
+		texturefile = "gfx//interface//advisors//russian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//russian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//russian_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//russian_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//russian_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//russian_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_trader_BG"
+		texturefile = "gfx//interface//advisors//russian_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_trader_BG_female"
+			texturefile = "gfx//interface//advisors//russian_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_theologian_CL"
+		texturefile = "gfx//interface//advisors//russian_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//russian_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_spymaster_NO"
+		texturefile = "gfx//interface//advisors//russian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//russian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_uralic_spymaster_BU"
+		texturefile = "gfx//interface//advisors//russian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//russian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//russian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//russian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_diplomat_NO"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_diplomat_BG"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_uralic_diplomat_TR"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_diplomat_BU"
+		texturefile = "gfx//interface//advisors//russian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//russian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//russian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//russian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//russian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//russian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_navigator_ML"
+		texturefile = "gfx//interface//advisors//russian_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//russian_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//russian_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//russian_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//russian_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//russian_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_commandant_ML"
+		texturefile = "gfx//interface//advisors//russian_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//russian_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//russian_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//russian_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//russian_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//russian_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//russian_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//russian_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_uralic_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//russian_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_uralic_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//russian_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+}

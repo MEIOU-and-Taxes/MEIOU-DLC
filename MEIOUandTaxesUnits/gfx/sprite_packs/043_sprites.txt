@@ -1,0 +1,152 @@
+
+dlc043_ham_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = HAM
+			tag = FRL
+			tag = FRB
+			tag = ISR
+		}
+	}
+	sprite_infantry = {
+		0 = A43_INFANTRY_1
+		1 = A43_INFANTRY_2
+		2 = A43_INFANTRY_3
+		3 = A43_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = A43_CAVALRY_1
+		1 = A43_CAVALRY_2
+		2 = A43_CAVALRY_3
+		3 = A43_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = A43_ARTILLERY_1
+		1 = A43_ARTILLERY_2
+		2 = A43_ARTILLERY_3
+		3 = A43_ARTILLERY_4
+	}
+}
+
+dlc043_num_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = NUR
+			tag = RTH
+			tag = AUG
+			tag = AUH
+			tag = SWA
+		}
+	}
+	sprite_infantry = {
+		0 = B43_INFANTRY_1
+		1 = B43_INFANTRY_2
+		2 = B43_INFANTRY_3
+		3 = B43_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = B43_CAVALRY_1
+		1 = B43_CAVALRY_2
+		2 = B43_CAVALRY_3
+		3 = B43_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = B43_ARTILLERY_1
+		1 = B43_ARTILLERY_2
+		2 = B43_ARTILLERY_3
+		3 = B43_ARTILLERY_4
+	}
+}
+
+dlc043_frn_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = FAL
+			tag = FRF
+			tag = ERF
+			tag = FRK
+			tag = AAC
+		}
+	}
+	sprite_infantry = {
+		0 = C43_INFANTRY_1
+		1 = C43_INFANTRY_2
+		2 = C43_INFANTRY_3
+		3 = C43_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = C43_CAVALRY_1
+		1 = C43_CAVALRY_2
+		2 = C43_CAVALRY_3
+		3 = C43_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = C43_ARTILLERY_1
+		1 = C43_ARTILLERY_2
+		2 = C43_ARTILLERY_3
+		3 = C43_ARTILLERY_4
+	}
+}
+
+dlc043_ulm_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = ULM
+			tag = FST
+			tag = DCP
+			tag = MLH
+		}
+	}
+
+	sprite_infantry = {
+		0 = D43_INFANTRY_1
+		1 = D43_INFANTRY_2
+		2 = D43_INFANTRY_3
+		3 = D43_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = D43_CAVALRY_1
+		1 = D43_CAVALRY_2
+		2 = D43_CAVALRY_3
+		3 = D43_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = D43_ARTILLERY_1
+		1 = D43_ARTILLERY_2
+		2 = D43_ARTILLERY_3
+		3 = D43_ARTILLERY_4
+	}
+}
+
+dlc043_sca_sprite_pack = {
+	country_trigger = {
+		always = no
+		OR = {
+			culture_group = scandinavian
+			culture_group = finnic
+		}
+	}
+
+	sprite_infantry = {
+		0 = E43_INFANTRY_1
+		1 = E43_INFANTRY_2
+		2 = E43_INFANTRY_3
+		3 = E43_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = E43_CAVALRY_1
+		1 = E43_CAVALRY_2
+		2 = E43_CAVALRY_3
+		3 = E43_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = E43_ARTILLERY_1
+		1 = E43_ARTILLERY_2
+		2 = E43_ARTILLERY_3
+		3 = E43_ARTILLERY_4
+	}
+}

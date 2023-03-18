@@ -1,0 +1,129 @@
+dlc011_spa_sprite_pack = {
+	available_for_custom_nation = no
+	country_trigger = {
+		OR = {
+			AND = {
+				culture_group = iberian
+				NOT = { primary_culture = portugese }
+				NOT = { primary_culture = portuguese_colonial }
+				NOT = { is_colonial_nation_of = POR }
+			}
+			culture_group = basque_group
+		}
+	}
+	continents = {
+		north_america
+		south_america
+		oceania
+		indian_continent
+		asia
+		central_asia
+		north_asia
+		africa
+		mena
+	}
+	sprite_infantry = {
+		0 = north_america_SPA_INFANTRY_1
+		1 = north_america_SPA_INFANTRY_2
+		2 = north_america_SPA_INFANTRY_3
+		3 = north_america_SPA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = north_america_SPA_CAVALRY_1
+		1 = north_america_SPA_CAVALRY_2
+		2 = north_america_SPA_CAVALRY_3
+		3 = north_america_SPA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = north_america_SPA_ARTILLERY_1
+		1 = north_america_SPA_ARTILLERY_2
+		2 = north_america_SPA_ARTILLERY_3
+		3 = north_america_SPA_ARTILLERY_4
+	}
+}
+
+dlc011_por_sprite_pack = {
+	available_for_custom_nation = no
+	country_trigger = {
+		OR = {
+			primary_culture = portugese
+			primary_culture = portuguese_colonial
+			is_colonial_nation_of = POR
+		}
+	}
+	continents = {
+		north_america
+		south_america
+		oceania
+		indian_continent
+		asia
+		central_asia
+		north_asia
+		africa
+		mena
+	}
+	sprite_infantry = {
+		0 = north_america_POR_INFANTRY_1
+		1 = north_america_POR_INFANTRY_2
+		2 = north_america_POR_INFANTRY_3
+		3 = north_america_POR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = north_america_POR_CAVALRY_1
+		1 = north_america_POR_CAVALRY_2
+		2 = north_america_POR_CAVALRY_3
+		3 = north_america_POR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = north_america_POR_ARTILLERY_1
+		1 = north_america_POR_ARTILLERY_2
+		2 = north_america_POR_ARTILLERY_3
+		3 = north_america_POR_ARTILLERY_4
+	}
+}
+
+dlc011_spa_custom_sprite_pack = {
+	available_for_custom_nation = yes
+	country_trigger = { always = no }
+	sprite_infantry = {
+		0 = north_america_SPA_INFANTRY_1
+		1 = north_america_SPA_INFANTRY_2
+		2 = north_america_SPA_INFANTRY_3
+		3 = north_america_SPA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = north_america_SPA_CAVALRY_1
+		1 = north_america_SPA_CAVALRY_2
+		2 = north_america_SPA_CAVALRY_3
+		3 = north_america_SPA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = north_america_SPA_ARTILLERY_1
+		1 = north_america_SPA_ARTILLERY_2
+		2 = north_america_SPA_ARTILLERY_3
+		3 = north_america_SPA_ARTILLERY_4
+	}
+}
+
+dlc011_por_custom_sprite_pack = {
+	available_for_custom_nation = yes
+	country_trigger = { always = no }
+	sprite_infantry = {
+		0 = north_america_POR_INFANTRY_1
+		1 = north_america_POR_INFANTRY_2
+		2 = north_america_POR_INFANTRY_3
+		3 = north_america_POR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = north_america_POR_CAVALRY_1
+		1 = north_america_POR_CAVALRY_2
+		2 = north_america_POR_CAVALRY_3
+		3 = north_america_POR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = north_america_POR_ARTILLERY_1
+		1 = north_america_POR_ARTILLERY_2
+		2 = north_america_POR_ARTILLERY_3
+		3 = north_america_POR_ARTILLERY_4
+	}
+}

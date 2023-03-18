@@ -1,0 +1,100 @@
+
+dlc079_afg_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = pashtun
+			primary_culture = baluchi
+			primary_culture = tajihk
+		}
+	}
+	sprite_infantry = {
+		0 = persia_AFG_INFANTRY_1
+		1 = persia_AFG_INFANTRY_2
+		2 = persia_AFG_INFANTRY_3
+		3 = persia_AFG_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = persia_AFG_CAVALRY_1
+		1 = persia_AFG_CAVALRY_2
+		2 = persia_AFG_CAVALRY_3
+		3 = persia_AFG_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = persia_AFG_ARTILLERY_1
+		1 = persia_AFG_ARTILLERY_2
+		2 = persia_AFG_ARTILLERY_3
+		3 = persia_AFG_ARTILLERY_4
+	}
+}
+
+dlc079_hsn_sprite_pack = {
+	country_trigger = {
+		primary_culture = lurish
+	}
+	sprite_infantry = {
+		0 = persia_HSN_INFANTRY_1
+		1 = persia_HSN_INFANTRY_2
+		2 = persia_HSN_INFANTRY_3
+		3 = persia_HSN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = persia_HSN_CAVALRY_1
+		1 = persia_HSN_CAVALRY_2
+		2 = persia_HSN_CAVALRY_3
+		3 = persia_HSN_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = persia_HSN_ARTILLERY_1
+		1 = persia_HSN_ARTILLERY_2
+		2 = persia_HSN_ARTILLERY_3
+		3 = persia_HSN_ARTILLERY_4
+	}
+}
+
+dlc079_per_sprite_pack = {
+	country_trigger = {
+		primary_culture = persian
+	}
+	sprite_infantry = {
+		0 = persia_PER_INFANTRY_1
+		1 = persia_PER_INFANTRY_2
+		2 = persia_PER_INFANTRY_3
+		3 = persia_PER_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = persia_PER_CAVALRY_1
+		1 = persia_PER_CAVALRY_2
+		2 = persia_PER_CAVALRY_3
+		3 = persia_PER_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = persia_PER_ARTILLERY_1
+		1 = persia_PER_ARTILLERY_2
+		2 = persia_PER_ARTILLERY_3
+		3 = persia_PER_ARTILLERY_4
+	}
+}
+
+dlc079_tab_sprite_pack = {
+	country_trigger = {
+		primary_culture = adari
+	}
+	sprite_infantry = {
+		0 = persia_TAB_INFANTRY_1
+		1 = persia_TAB_INFANTRY_2
+		2 = persia_TAB_INFANTRY_3
+		3 = persia_TAB_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = persia_TAB_CAVALRY_1
+		1 = persia_TAB_CAVALRY_2
+		2 = persia_TAB_CAVALRY_3
+		3 = persia_TAB_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = persia_TAB_ARTILLERY_1
+		1 = persia_TAB_ARTILLERY_2
+		2 = persia_TAB_ARTILLERY_3
+		3 = persia_TAB_ARTILLERY_4
+	}
+}

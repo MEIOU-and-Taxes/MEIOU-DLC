@@ -1,0 +1,127 @@
+
+dlc048_tim_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = TIM
+			tag = CHG
+			tag = MGH
+		}
+	}
+	sprite_infantry = {
+		0 = A48_INFANTRY_1
+		1 = A48_INFANTRY_2
+		2 = A48_INFANTRY_3
+		3 = A48_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = A48_CAVALRY_1
+		1 = A48_CAVALRY_2
+		2 = A48_CAVALRY_3
+		3 = A48_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = A48_ARTILLERY_1
+		1 = A48_ARTILLERY_2
+		2 = A48_ARTILLERY_3
+		3 = A48_ARTILLERY_4
+	}
+}
+
+dlc048_gol_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = GOL
+			tag = JAI
+			tag = ILK
+			tag = BLU
+			tag = JAI
+			tag = ILK
+			tag = WHI
+			tag = JAI
+			tag = ILK
+			tag = CHU
+			tag = JAI
+			tag = ILK
+			tag = GGK
+			tag = JAI
+			tag = ILK
+			tag = SAK
+		}
+	}
+	sprite_infantry = {
+		0 = B48_INFANTRY_1
+		1 = B48_INFANTRY_2
+		2 = B48_INFANTRY_3
+		3 = B48_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = B48_CAVALRY_1
+		1 = B48_CAVALRY_2
+		2 = B48_CAVALRY_3
+		3 = B48_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = B48_ARTILLERY_1
+		1 = B48_ARTILLERY_2
+		2 = B48_ARTILLERY_3
+		3 = B48_ARTILLERY_4
+	}
+}
+
+dlc048_nog_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = NOG
+			tag = SIB
+			tag = KHO
+		}
+	}
+	sprite_infantry = {
+		0 = C48_INFANTRY_1
+		1 = C48_INFANTRY_2
+		2 = C48_INFANTRY_3
+		3 = C48_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = C48_CAVALRY_1
+		1 = C48_CAVALRY_2
+		2 = C48_CAVALRY_3
+		3 = C48_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = C48_ARTILLERY_1
+		1 = C48_ARTILLERY_2
+		2 = C48_ARTILLERY_3
+		3 = C48_ARTILLERY_4
+	}
+}
+
+dlc048_shy_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SHY
+			tag = KZH
+			tag = BUK
+			tag = KHI
+			tag = KOK
+		}
+	}
+	sprite_infantry = {
+		0 = D48_INFANTRY_1
+		1 = D48_INFANTRY_2
+		2 = D48_INFANTRY_3
+		3 = D48_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = D48_CAVALRY_1
+		1 = D48_CAVALRY_2
+		2 = D48_CAVALRY_3
+		3 = D48_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = D48_ARTILLERY_1
+		1 = D48_ARTILLERY_2
+		2 = D48_ARTILLERY_3
+		3 = D48_ARTILLERY_4
+	}
+}

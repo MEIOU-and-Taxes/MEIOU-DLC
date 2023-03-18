@@ -1,0 +1,563 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_philosopher"
+		texturefile = "gfx//interface//advisors//southamerica_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_philosopher_female"
+			texturefile = "gfx//interface//advisors//southamerica_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_natural_scientist"
+		texturefile = "gfx//interface//advisors//southamerica_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//southamerica_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_artist"
+		texturefile = "gfx//interface//advisors//southamerica_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_artist_female"
+			texturefile = "gfx//interface//advisors//southamerica_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_statesman_NO"
+		texturefile = "gfx//interface//advisors//southamerica_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//southamerica_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_statesman_BG"
+		texturefile = "gfx//interface//advisors//southamerica_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_statesman_CL"
+		texturefile = "gfx//interface//advisors//southamerica_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//southamerica_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_statesman_BU"
+		texturefile = "gfx//interface//advisors//southamerica_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_treasurer_NO"
+		texturefile = "gfx//interface//advisors//southamerica_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//southamerica_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_treasurer_BG"
+		texturefile = "gfx//interface//advisors//southamerica_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_treasurer_BU"
+		texturefile = "gfx//interface//advisors//southamerica_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//southamerica_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//southamerica_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_trader_BG"
+		texturefile = "gfx//interface//advisors//southamerica_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_trader_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_theologian_CL"
+		texturefile = "gfx//interface//advisors//southamerica_theologican.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//southamerica_theologican_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_spymaster_NO"
+		texturefile = "gfx//interface//advisors//southamerica_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//southamerica_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_spymaster_BU"
+		texturefile = "gfx//interface//advisors//southamerica_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//southamerica_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//southamerica_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//southamerica_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//southamerica_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_diplomat_NO"
+		texturefile = "gfx//interface//advisors//southamerica_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//southamerica_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_diplomat_BG"
+		texturefile = "gfx//interface//advisors//southamerica_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_diplomat_TR"
+		texturefile = "gfx//interface//advisors//southamerica_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//southamerica_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_diplomat_BU"
+		texturefile = "gfx//interface//advisors//southamerica_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//southamerica_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//southamerica_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//southamerica_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//southamerica_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_navigator_ML"
+		texturefile = "gfx//interface//advisors//southamerica_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//southamerica_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//southamerica_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_commandant_ML"
+		texturefile = "gfx//interface//advisors//southamerica_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//southamerica_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//southamerica_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//southamerica_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//southamerica_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_southamericagfx_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//southamerica_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_southamericagfx_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//southamerica_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+}

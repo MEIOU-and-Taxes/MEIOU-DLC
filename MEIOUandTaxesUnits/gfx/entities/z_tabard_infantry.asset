@@ -1,0 +1,48 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+entity = {
+	name = "ALS_HYW_INFANTRY_1"
+	pdxmesh = "ALS_INFANTRY_1"
+	version = 1
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "BOH_HYW_INFANTRY_1"
+	pdxmesh = "BOH_INFANTRY_1"
+	version = 1
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}
+
+entity = {
+	name = "MAI_HYW_INFANTRY_1"
+	pdxmesh = "MAI_INFANTRY_1"
+	version = 1
+	state = { name = "idle" 		animation = "idle" }
+	state = { name = "walk" 		animation = "walk" }
+	state = { name = "attack"		animation = "attack" }
+	state = { name = "retreat"		animation = "retreat" }
+
+	attach = {
+		Right_hand_node = "western_halbard"
+	}
+}

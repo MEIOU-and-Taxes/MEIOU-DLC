@@ -1,0 +1,51 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "ALS_CAVALRY_1_rider"
+	pdxmesh = "ALS_INFANTRY_1"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "ALS_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "ALS_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "BOH_CAVALRY_1_rider"
+	pdxmesh = "BOH_INFANTRY_1"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "BOH_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "BOH_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "MAI_CAVALRY_1_rider"
+	pdxmesh = "MAI_INFANTRY_1"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "MAI_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "MAI_CAVALRY_1_rider"
+	}
+}

@@ -1,0 +1,24 @@
+objectTypes = {	
+
+	pdxmesh = {
+		name = "marnoup_FRA_infantry_04_type1"
+		file = "gfx/models/Units/marnoup_FRA_infantry_04.mesh"			
+
+		animation = { id = "idle"				type = "rifleman_idle_animation" }
+		animation = { id = "walk"				type = "rifleman_moving_animation" }
+		animation = { id = "attack"				type = "rifleman_attack_animation" }
+		animation = { id = "death"				type = "rifleman_death_animation" }
+		animation = { id = "retreat"			type = "rifleman_retreat_animation" }
+		
+		animation = { id = "horse_attack"		type = "marnoup_cavalry_rider_noarmor_attack_animation" }		
+		animation = { id = "horse_idle"			type = "marnoup_cavalry_rider_noarmor_idle_animation" }
+		animation = { id = "horse_walk"			type = "marnoup_cavalry_rider_noarmor_moving_animation" }	
+		animation = { id = "horse_death"		type = "marnoup_cavalry_rider_noarmor_death_animation" }
+		animation = { id = "horse_retraet"		type = "marnoup_cavalry_rider_noarmor_moving_animation" }	
+		
+		animation = { id = "artillery_attack"	type = "rifleman_attack_animation" }			
+		
+		scale = 0.30
+	}	
+
+}

@@ -1,0 +1,125 @@
+
+dlc068_jap_sprite_pack = {
+	country_trigger = {
+		culture_group = japanese_g
+		NOT = { tag = JAP }
+	}
+
+	sprite_infantry = {
+		1 = mandate_JAP_INFANTRY_2
+		2 = mandate_JAP_INFANTRY_3
+		3 = mandate_JAP_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		1 = mandate_JAP_CAVALRY_2
+		2 = mandate_JAP_CAVALRY_3
+		3 = mandate_JAP_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		1 = mandate_JAP_ARTILLERY_2
+		2 = mandate_JAP_ARTILLERY_3
+		3 = mandate_JAP_ARTILLERY_4
+	}
+}
+
+dlc068_sho_sprite_pack = {
+	country_trigger = {
+		tag = JAP
+	}
+
+	sprite_infantry = {
+		0 = mandate_JAP_INFANTRY_1
+		1 = mandate_JAP_INFANTRY_2
+		2 = mandate_JAP_INFANTRY_3
+		3 = mandate_JAP_INFANTRY_4
+	}
+
+	sprite_cavalry = {
+		0 = mandate_JAP_CAVALRY_1
+		1 = mandate_JAP_CAVALRY_2
+		2 = mandate_JAP_CAVALRY_3
+		3 = mandate_JAP_CAVALRY_4
+	}
+
+	sprite_artillery = {
+		0 = mandate_JAP_ARTILLERY_1
+		1 = mandate_JAP_ARTILLERY_2
+		2 = mandate_JAP_ARTILLERY_3
+		3 = mandate_JAP_ARTILLERY_4
+	}
+}
+
+dlc068_kor_sprite_pack = {
+	country_trigger = {
+		culture_group = korean_group
+	}
+	sprite_infantry = {
+		0 = mandate_KOR_INFANTRY_1
+		1 = mandate_KOR_INFANTRY_2
+		2 = mandate_KOR_INFANTRY_3
+		3 = mandate_KOR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_KOR_CAVALRY_1
+		1 = mandate_KOR_CAVALRY_2
+		2 = mandate_KOR_CAVALRY_3
+		3 = mandate_KOR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_KOR_ARTILLERY_1
+		1 = mandate_KOR_ARTILLERY_2
+		2 = mandate_KOR_ARTILLERY_3
+		3 = mandate_KOR_ARTILLERY_4
+	}
+}
+
+dlc068_mng_sprite_pack = {
+	country_trigger = {
+		culture_group = chinese_group
+		NOT = { tag = QNG }
+	}
+	sprite_infantry = {
+		0 = mandate_MNG_INFANTRY_1
+		1 = mandate_MNG_INFANTRY_2
+		2 = mandate_MNG_INFANTRY_3
+		3 = mandate_MNG_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_MNG_CAVALRY_1
+		1 = mandate_MNG_CAVALRY_2
+		2 = mandate_MNG_CAVALRY_3
+		3 = mandate_MNG_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_MNG_ARTILLERY_1
+		1 = mandate_MNG_ARTILLERY_2
+		2 = mandate_MNG_ARTILLERY_3
+		3 = mandate_MNG_ARTILLERY_4
+	}
+}
+
+dlc068_qng_sprite_pack = {
+	country_trigger = {
+		tag = QNG
+	}
+	sprite_infantry = {
+		0 = mandate_QNG_INFANTRY_1
+		1 = mandate_QNG_INFANTRY_2
+		2 = mandate_QNG_INFANTRY_3
+		3 = mandate_QNG_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = mandate_QNG_CAVALRY_1
+		1 = mandate_QNG_CAVALRY_2
+		2 = mandate_QNG_CAVALRY_3
+		3 = mandate_QNG_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = mandate_QNG_ARTILLERY_1
+		1 = mandate_QNG_ARTILLERY_2
+		2 = mandate_QNG_ARTILLERY_3
+		3 = mandate_QNG_ARTILLERY_4
+	}
+}

@@ -1,0 +1,102 @@
+
+dlc075_plt_sprite_pack = {
+	country_trigger = {
+		tag = PLT
+	}
+	sprite_infantry = {
+		0 = trup_PLT_INFANTRY_1
+		1 = trup_PLT_INFANTRY_2
+		2 = trup_PLT_INFANTRY_3
+		3 = trup_PLT_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_PLT_CAVALRY_1
+		1 = trup_PLT_CAVALRY_2
+		2 = trup_PLT_CAVALRY_3
+		3 = trup_PLT_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_PLT_ARTILLERY_1
+		1 = trup_PLT_ARTILLERY_2
+		2 = trup_PLT_ARTILLERY_3
+		3 = trup_PLT_ARTILLERY_4
+	}
+}
+
+dlc075_smo_sprite_pack = {
+	country_trigger = {
+		tag = SMO
+	}
+	sprite_infantry = {
+		0 = trup_SMO_INFANTRY_1
+		1 = trup_SMO_INFANTRY_2
+		2 = trup_SMO_INFANTRY_3
+		3 = trup_SMO_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_SMO_CAVALRY_1
+		1 = trup_SMO_CAVALRY_2
+		2 = trup_SMO_CAVALRY_3
+		3 = trup_SMO_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_SMO_ARTILLERY_1
+		1 = trup_SMO_ARTILLERY_2
+		2 = trup_SMO_ARTILLERY_3
+		3 = trup_SMO_ARTILLERY_4
+	}
+}
+
+dlc075_nzh_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = NZH
+			tag = STA
+		}
+	}
+	sprite_infantry = {
+		0 = trup_NZH_INFANTRY_1
+		1 = trup_NZH_INFANTRY_2
+		2 = trup_NZH_INFANTRY_3
+		3 = trup_NZH_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_NZH_CAVALRY_1
+		1 = trup_NZH_CAVALRY_2
+		2 = trup_NZH_CAVALRY_3
+		3 = trup_NZH_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_NZH_ARTILLERY_1
+		1 = trup_NZH_ARTILLERY_2
+		2 = trup_NZH_ARTILLERY_3
+		3 = trup_NZH_ARTILLERY_4
+	}
+}
+
+dlc075_ukr_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = UKR
+			tag = KIE
+		}
+	}
+	sprite_infantry = {
+		0 = trup_UKR_INFANTRY_1
+		1 = trup_UKR_INFANTRY_2
+		2 = trup_UKR_INFANTRY_3
+		3 = trup_UKR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_UKR_CAVALRY_1
+		1 = trup_UKR_CAVALRY_2
+		2 = trup_UKR_CAVALRY_3
+		3 = trup_UKR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_UKR_ARTILLERY_1
+		1 = trup_UKR_ARTILLERY_2
+		2 = trup_UKR_ARTILLERY_3
+		3 = trup_UKR_ARTILLERY_4
+	}
+}

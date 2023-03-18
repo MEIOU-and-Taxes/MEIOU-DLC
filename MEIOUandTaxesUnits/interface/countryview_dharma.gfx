@@ -1,0 +1,563 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_indiangfx_philosopher"
+		texturefile = "gfx//interface//advisors//indian_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_philosopher_female"
+			texturefile = "gfx//interface//advisors//indian_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_natural_scientist"
+		texturefile = "gfx//interface//advisors//indian_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//indian_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_artist"
+		texturefile = "gfx//interface//advisors//indian_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_artist_female"
+			texturefile = "gfx//interface//advisors//indian_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_statesman_NO"
+		texturefile = "gfx//interface//advisors//indian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//indian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_statesman_BG"
+		texturefile = "gfx//interface//advisors//indian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//indian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_statesman_CL"
+		texturefile = "gfx//interface//advisors//indian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//indian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_statesman_BU"
+		texturefile = "gfx//interface//advisors//indian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//indian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_treasurer_NO"
+		texturefile = "gfx//interface//advisors//indian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//indian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_treasurer_BG"
+		texturefile = "gfx//interface//advisors//indian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//indian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_treasurer_BU"
+		texturefile = "gfx//interface//advisors//indian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//indian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//indian_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//indian_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//indian_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//indian_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_trader_BG"
+		texturefile = "gfx//interface//advisors//indian_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_trader_BG_female"
+			texturefile = "gfx//interface//advisors//indian_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_theologian_CL"
+		texturefile = "gfx//interface//advisors//indian_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//indian_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_spymaster_NO"
+		texturefile = "gfx//interface//advisors//indian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//indian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_indiangfx_spymaster_BU"
+		texturefile = "gfx//interface//advisors//indian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//indian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//indian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//indian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//indian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//indian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//indian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//indian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_diplomat_NO"
+		texturefile = "gfx//interface//advisors//indian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//indian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_diplomat_BG"
+		texturefile = "gfx//interface//advisors//indian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//indian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_indiangfx_diplomat_TR"
+		texturefile = "gfx//interface//advisors//indian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//indian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_diplomat_BU"
+		texturefile = "gfx//interface//advisors//indian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//indian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//indian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//indian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//indian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//indian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_navigator_ML"
+		texturefile = "gfx//interface//advisors//indian_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//indian_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//indian_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//indian_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//indian_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//indian_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_commandant_ML"
+		texturefile = "gfx//interface//advisors//indian_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//indian_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//indian_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//indian_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//indian_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//indian_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//indian_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//indian_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_indiangfx_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//indian_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_indiangfx_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//indian_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+}

@@ -1,0 +1,51 @@
+dlc053_spa_sprite_pack = {
+	country_trigger = {
+		OR = {
+			AND = {
+				culture_group = iberian
+				NOT = { primary_culture = portugese }
+				NOT = { primary_culture = portuguese_colonial }
+				NOT = { is_colonial_nation_of = POR }
+			}
+			culture_group = basque_group
+		}
+	}
+	sprite_infantry = {
+		0 = catmajup_SPA_INFANTRY_1
+		2 = catmajup_SPA_INFANTRY_3
+		3 = catmajup_SPA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = catmajup_SPA_CAVALRY_1
+		2 = catmajup_SPA_CAVALRY_3
+		3 = catmajup_SPA_CAVALRY_4
+	}
+}
+
+dlc053_hab_sprite_pack = {
+	country_trigger = {
+		tag = HAB
+	}
+	sprite_infantry = {
+		2 = catmajup_HAB_INFANTRY_3
+		3 = catmajup_HAB_INFANTRY_4
+	}
+	sprite_cavalry = {
+		2 = catmajup_HAB_CAVALRY_3
+		3 = catmajup_HAB_CAVALRY_4
+	}
+}
+
+dlc053_pol_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = POL
+			tag = PLC
+			tag = MAZ
+		}
+	}
+	sprite_infantry = {
+		2 = catmajup_POL_INFANTRY_3
+		3 = catmajup_POL_INFANTRY_4
+	}
+}

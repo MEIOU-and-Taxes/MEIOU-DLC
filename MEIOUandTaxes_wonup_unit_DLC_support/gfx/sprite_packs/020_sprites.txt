@@ -1,0 +1,396 @@
+
+dlc020_ara_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = ARB
+			tag = BLG
+			tag = ETR
+			tag = FER
+			tag = ITE
+			tag = MOD
+			tag = TRS
+			tag = TUS
+			tag = URB
+			tag = ANC
+			tag = RIM
+			tag = GOR
+			tag = MSS
+			tag = SPI
+			tag = PAP
+			tag = DAP
+			tag = FRM
+			tag = ATI
+			tag = CMR
+			tag = CAR
+			tag = PEA
+		}
+	}
+	sprite_infantry = {
+		1 = wonup_ITA_INFANTRY_2
+		2 = wonup_ITA_INFANTRY_3
+		3 = wonup_ITA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_ITA_CAVALRY_2
+		2 = wonup_ITA_CAVALRY_3
+		3 = wonup_ITA_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_ITA_ARTILLERY_2
+		2 = wonup_ITA_ARTILLERY_3
+		3 = wonup_ITA_ARTILLERY_4
+	}
+}
+
+dlc020_nov_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = RUS
+			tag = PSK
+			tag = NOV
+			tag = GEO
+			tag = MOS
+			tag = RYA
+			tag = TVE
+			tag = UKR
+			tag = YAR
+			tag = BOZ
+			tag = BRK
+			tag = KRC
+			tag = KIE
+			tag = MUR
+			tag = NVS
+			tag = NZH
+			tag = PRM
+			tag = ROS
+			tag = SMO
+			tag = VOR
+			tag = CHV
+			tag = NSK
+			tag = UGL
+			tag = VLA
+			tag = SER
+			tag = VUK
+			tag = MKO
+			tag = VBZ
+			tag = MON
+		}
+	}
+	sprite_infantry = {
+		0 = wonup_NOV_INFANTRY_1
+		1 = wonup_NOV_INFANTRY_2
+		2 = wonup_NOV_INFANTRY_3
+		3 = wonup_NOV_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = wonup_NOV_CAVALRY_1
+		1 = wonup_NOV_CAVALRY_2
+		2 = wonup_NOV_CAVALRY_3
+		3 = wonup_NOV_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = wonup_NOV_ARTILLERY_1
+		1 = wonup_NOV_ARTILLERY_2
+		2 = wonup_NOV_ARTILLERY_3
+		3 = wonup_NOV_ARTILLERY_4
+	}
+}
+
+dlc020_hsa_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = FRL
+			tag = FRB
+			tag = PRU
+			tag = HAB
+			tag = DNZ
+			tag = HAM
+			tag = AUG
+			tag = BSL
+			tag = FRF
+			tag = FRK
+			tag = GNV
+			tag = NUR
+			tag = ALS
+			tag = BRG
+			tag = MST
+			tag = ANH
+			tag = ANS
+			tag = AUH
+			tag = BAD
+			tag = BAV
+			tag = BAW
+			tag = BAX
+			tag = BAY
+			tag = BAZ
+			tag = BOH
+			tag = BMB
+			tag = BRA
+			tag = BRE
+			tag = BRU
+			tag = BSI
+			tag = CAL
+			tag = FRE
+			tag = FUR
+			tag = GBN
+			tag = GER
+			tag = GTG
+			tag = HOH
+			tag = JUL
+			tag = HAB
+			tag = HAN
+			tag = HES
+			tag = HDA
+			tag = HKA
+			tag = HOY
+			tag = KLE
+			tag = KOL
+			tag = KUL
+			tag = LAU
+			tag = LUN
+			tag = MAG
+			tag = MAI
+			tag = MEI
+			tag = MKL
+			tag = MUN
+			tag = NAS
+			tag = NUS
+			tag = OLD
+			tag = OSN
+			tag = PAL
+			tag = PDB
+			tag = POM
+			tag = SIL
+			tag = SLZ
+			tag = STY
+			tag = SWA
+			tag = SWI
+			tag = SWR
+			tag = TES
+			tag = TIR
+			tag = TRI
+			tag = ULM
+			tag = WBG
+			tag = WES
+			tag = WUR
+			tag = LGZ
+			tag = OPO
+			tag = WRO
+			tag = HUS
+			tag = PKA
+			tag = PRW
+			tag = PSP
+			tag = PST
+			tag = PWO
+			tag = TCK
+			tag = RAV
+			tag = RUP
+			tag = MDN
+			tag = BRH
+			tag = WDK
+			tag = ZIE
+			tag = FAL
+			tag = HNU
+			tag = HHL
+			tag = SCB
+			tag = HEN
+			tag = SCH
+			tag = MFD
+			tag = MBG
+			tag = SBG
+			tag = THO
+			tag = LPP
+			tag = HIL
+			tag = ERF
+			tag = WRL
+			tag = SHW
+			tag = SHL
+			tag = RST
+			tag = REU
+			tag = OLE
+			tag = JAW
+			tag = STR
+			tag = FST
+			tag = DCP
+			tag = MLH
+			tag = RTH
+			tag = PSS
+			tag = SWD
+			tag = AAC
+			tag = BNT
+			tag = GLO
+			tag = RAO
+		}
+	}
+	sprite_infantry = {
+		1 = wonup_HSA_INFANTRY_2
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_HSA_CAVALRY_2
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_HSA_ARTILLERY_2
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_lor_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = LOR
+			tag = MTV
+			tag = BAR
+		}
+	}
+	sprite_infantry = {
+		1 = wonup_HSA_INFANTRY_2
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_HSA_CAVALRY_2
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_HSA_ARTILLERY_2
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_hsa_sprite_pack = {
+	country_trigger = {
+		tag = MRK
+	}
+	sprite_infantry = {
+		1 = wonup_HSA_INFANTRY_2
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_HSA_CAVALRY_2
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+²		1 = wonup_HSA_ARTILLERY_2
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_hab_sprite_pack = {
+	country_trigger = {
+		tag = HAB
+	}
+	sprite_infantry = {
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_thu_sprite_pack = {
+	country_trigger = {
+		tag = THU
+	}
+	sprite_infantry = {
+		1 = wonup_HSA_INFANTRY_2
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_HSA_CAVALRY_2
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_HSA_ARTILLERY_2
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_sax_sprite_pack = {
+	country_trigger = {
+		tag = SAX
+	}
+	sprite_infantry = {
+		1 = wonup_HSA_INFANTRY_2
+		2 = wonup_HSA_INFANTRY_3
+		3 = wonup_HSA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_HSA_CAVALRY_2
+		2 = wonup_HSA_CAVALRY_3
+		3 = wonup_HSA_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_HSA_ARTILLERY_2
+		2 = wonup_HSA_ARTILLERY_3
+		3 = wonup_HSA_ARTILLERY_4
+	}
+}
+
+dlc020_mas_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = MAS
+			tag = FIR
+			tag = PIS
+			tag = SAR
+			tag = VEN
+		}
+	}
+	sprite_infantry = {
+		0 = wonup_GEN_INFANTRY_1
+		1 = wonup_GEN_INFANTRY_2
+		2 = wonup_GEN_INFANTRY_3
+		3 = wonup_GEN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = wonup_GEN_CAVALRY_1
+		1 = wonup_GEN_CAVALRY_2
+		2 = wonup_GEN_CAVALRY_3
+		3 = wonup_GEN_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = wonup_GEN_ARTILLERY_1
+		1 = wonup_GEN_ARTILLERY_2
+		2 = wonup_GEN_ARTILLERY_3
+		3 = wonup_GEN_ARTILLERY_4
+	}
+}
+
+dlc020_gen_sprite_pack = {
+	country_trigger = {
+		tag = GEN
+	}
+	sprite_infantry = {
+		1 = wonup_GEN_INFANTRY_2
+		2 = wonup_GEN_INFANTRY_3
+		3 = wonup_GEN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = wonup_GEN_CAVALRY_2
+		2 = wonup_GEN_CAVALRY_3
+		3 = wonup_GEN_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = wonup_GEN_ARTILLERY_2
+		2 = wonup_GEN_ARTILLERY_3
+		3 = wonup_GEN_ARTILLERY_4
+}

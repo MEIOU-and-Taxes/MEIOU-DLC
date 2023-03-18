@@ -1,0 +1,90 @@
+
+dlc087_bri_sprite_pack = {
+	country_trigger = {
+		primary_culture = breton
+	}
+	sprite_infantry = {
+		1 = rbup_BRI_INFANTRY_2
+		2 = rbup_BRI_INFANTRY_3
+		3 = rbup_BRI_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = rbup_BRI_CAVALRY_2
+		2 = rbup_BRI_CAVALRY_3
+		3 = rbup_BRI_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = rbup_BRI_ARTILLERY_2
+		2 = rbup_BRI_ARTILLERY_3
+		3 = rbup_BRI_ARTILLERY_4
+	}
+}
+
+dlc087_ire_sprite_pack = {
+	country_trigger = {
+		tag = IRE
+	}
+	sprite_infantry = {
+		0 = rbup_IRE_INFANTRY_1
+		1 = rbup_IRE_INFANTRY_2
+		2 = rbup_IRE_INFANTRY_3
+		3 = rbup_IRE_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = rbup_IRE_CAVALRY_1
+		1 = rbup_IRE_CAVALRY_2
+		2 = rbup_IRE_CAVALRY_3
+		3 = rbup_IRE_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = rbup_IRE_ARTILLERY_1
+		1 = rbup_IRE_ARTILLERY_2
+		2 = rbup_IRE_ARTILLERY_3
+		3 = rbup_IRE_ARTILLERY_4
+	}
+}
+
+dlc087_sco_sprite_pack = {
+	country_trigger = {
+		primary_culture = lowland_scottish
+	}
+	sprite_infantry = {
+		1 = rbup_SCO_INFANTRY_2
+		2 = rbup_SCO_INFANTRY_3
+		3 = rbup_SCO_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = rbup_SCO_CAVALRY_2
+		2 = rbup_SCO_CAVALRY_3
+		3 = rbup_SCO_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = rbup_SCO_ARTILLERY_2
+		2 = rbup_SCO_ARTILLERY_3
+		3 = rbup_SCO_ARTILLERY_4
+	}
+}
+
+dlc087_wls_sprite_pack = {
+	country_trigger = {
+		primary_culture = welsh
+	}
+	sprite_infantry = {
+		#0 = rbup_WLS_INFANTRY_1
+		1 = rbup_WLS_INFANTRY_2
+		2 = rbup_WLS_INFANTRY_3
+		3 = rbup_WLS_INFANTRY_4
+	}
+	sprite_cavalry = {
+		#0 = rbup_WLS_CAVALRY_1
+		1 = rbup_WLS_CAVALRY_2
+		2 = rbup_WLS_CAVALRY_3
+		3 = rbup_WLS_CAVALRY_4
+	}
+	sprite_artillery = {
+		#0 = rbup_WLS_ARTILLERY_1
+		1 = rbup_WLS_ARTILLERY_2
+		2 = rbup_WLS_ARTILLERY_3
+		3 = rbup_WLS_ARTILLERY_4
+	}
+}

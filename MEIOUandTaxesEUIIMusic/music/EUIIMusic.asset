@@ -1,0 +1,266 @@
+
+#EUII Music
+music = {
+	name = "Saltarello (EUII)"
+	file = "EUII_1400_Saltarello.ogg"
+}
+
+music = {
+	name = "Estampie (EUII)"
+	file = "EUII_1400_Anonymous1.ogg"
+}
+
+music = {
+	name = "Rosa Bella (EUII)"
+	file = "EUII_1400_RosaBella.ogg"
+}
+
+music = {
+	name = "Del Encina (EUII)"
+	file = "EUII_1400_DelEncina.ogg"
+}
+
+music = {
+	name = "Im Maien (EUII)"
+	file = "EUII_1400_Senfl.ogg"
+}
+
+music = {
+	name = "Nel Bosco Senca Foglie (EUII)"
+	file = "EUII_1400_Anonymous2.ogg"
+}
+
+music = {
+	name = "Falalalan (EUII)"
+	file = "EUII_1400_Falalalan.ogg"
+}
+
+music = {
+	name = "Triste Espana (EUII)"
+	file = "EUII_1400_TristeEspana.ogg"
+}
+
+music = {
+	name = "Hoffdantz (EUII)"
+	file = "EUII_1400_Hoffdantz.ogg"
+}
+
+music = {
+	name = "Danza Alta (EUII)"
+	file = "EUII_1400_Danza.ogg"
+}
+
+music = {
+	name = "Entré du Fol (EUII)"
+	file = "EUII_1500_Tielman1.ogg"
+}
+
+music = {
+	name = "Il estoit une filette (EUII)"
+	file = "EUII_1500_Tielman2.ogg"
+}
+
+music = {
+	name = "Phalese (EUII)"
+	file = "EUII_1500_Phalese.ogg"
+}
+
+music = {
+	name = "Gaudete (EUII)"
+	file = "EUII_1500_Anonymous3.ogg"
+}
+
+music = {
+	name = "Morley (EUII)"
+	file = "EUII_1500_Morley.ogg"
+}
+
+music = {
+	name = "In Dulci Jubilo (EUII)"
+	file = "EUII_1500_In_Dulci_Jubilo.ogg"
+}
+
+music = {
+	name = "Santarello (EUII)"
+	file = "EUII_1500_Santarello.ogg"
+}
+
+music = {
+	name = "Upsala (EUII)"
+	file = "EUII_1500_Upsala.ogg"
+}
+
+music = {
+	name = "Vulpius (EUII)"
+	file = "EUII_1500_Vulpius.ogg"
+}
+
+music = {
+	name = "La Mignone (EUII)"
+	file = "EUII_1600_LaMignone.ogg"
+}
+
+music = {
+	name = "Gigue (EUII)"
+	file = "EUII_1600_Gigue.ogg"
+}
+
+music = {
+	name = "Allemande (EUII)"
+	file = "EUII_1600_Allemande.ogg"
+}
+
+music = {
+	name = "George Whitehead (EUII)"
+	file = "EUII_1600_GeorgeWhitehead.ogg"
+}
+
+music = {
+	name = "Mistress Nichols Almand (EUII)"
+	file = "EUII_1600_MistressNicholsAlmand.ogg"
+}
+
+music = {
+	name = "Nicho Gryffith (EUII)"
+	file = "EUII_1600_NichoGryffith.ogg"
+}
+
+music = {
+	name = "Furioso (EUII)"
+	file = "EUII_1600_Furioso.ogg"
+}
+
+music = {
+	name = "Spagnioletta (EUII)"
+	file = "EUII_1600_Spagnioletta.ogg"
+}
+
+music = {
+	name = "Domine Exaudi (EUII)"
+	file = "EUII_1600_DomineExaudi.ogg"
+}
+
+music = {
+	name = "Canzona La Bavara (EUII)"
+	file = "EUII_1600_CanzonaLaBavara.ogg"
+}
+
+music = {
+	name = "Sonata In D Minor (EUII)"
+	file = "EUII_1600_SonataInDMinor.ogg"
+}
+
+music = {
+	name = "Das Wort Ward Fleisch (EUII)"
+	file = "EUII_1600_DasIstGewisslichWahr.ogg"
+}
+
+music = {
+	name = "Unser Keiner Lebet Ihm Selber (EUII)"
+	file = "EUII_1600_DieMitThranenSaen.ogg"
+}
+
+music = {
+	name = "String Quartet No2 - Andante (EUII)"
+	file = "EUII_1700_StringQuartetNo2-Andante.ogg"
+}
+
+music = {
+	name = "Prelude and Fugue F Minor (EUII)"
+	file = "EUII_1700_PreludeAndFugueFMinor.ogg"
+}
+
+music = {
+	name = "Prelude and Fugue A Minor (EUII)"
+	file = "EUII_1700_PreludeAndFugueAMinor.ogg"
+}
+
+music = {
+	name = "String Quartet No1 - Adagio (EUII)"
+	file = "EUII_1700_StringQuartetNo1-Adagio.ogg"
+}
+
+music = {
+	name = "Minuetto In Canone (EUII)"
+	file = "EUII_1700_MinuettoInCanone.ogg"
+}
+
+music = {
+	name = "String Quintet No2 - Allegro (EUII)"
+	file = "EUII_1700_StringQuintetNo2-Allegro.ogg"
+}
+
+music = {
+	name = "Piano Concerto B Flat - Adagio (EUII)"
+	file = "EUII_1700_PianoConcertoBFlat-Adagio.ogg"
+}
+
+music = {
+	name = "Rondo Molto Allegro (EUII)"
+	file = "EUII_1700_RondoMoltoAllegro.ogg"
+}
+
+music = {
+	name = "Gloria In Excelsis Deo (EUII)"
+	file = "EUII_1700_GloriaInExcelsisDeo.ogg"
+}
+
+music = {
+	name = "Laudamus Te (EUII)"
+	file = "EUII_1700_LaudamusTe.ogg"
+}
+
+music = {
+	name = "Juravit Dominus (EUII)"
+	file = "EUII_1700_JuravitDominus.ogg"
+}
+
+music = {
+	name = "Dixit Dominus (EUII)"
+	file = "EUII_1700_DixitDominus.ogg"
+}
+
+music = {
+	name = "Les Folies Francoises (EUII)"
+	file = "EUII_1700_LesFoliesFrancoises.ogg"
+}
+
+music = {
+	name = "La Du Breuil (EUII)"
+	file = "EUII_1700_LaDuBreuil.ogg"
+}
+
+music = {
+	name = "Cancer (EUII)"
+	file = "EUII_1700_Cancer.ogg"
+}
+
+music = {
+	name = "Poco Sostenuto (EUII)"
+	file = "EUII_1700_PocoSostenuto.ogg"
+}
+
+music = {
+	name = "L'Engageante (EUII)"
+	file = "EUII_1700_LEngageante.ogg"
+}
+
+music = {
+	name = "Spring (EUII)"
+	file = "EUII_1700_Spring.ogg"
+}
+
+music = {
+	name = "Summer (EUII)"
+	file = "EUII_1700_Summer.ogg"
+}
+
+music = {
+	name = "Autumn (EUII)"
+	file = "EUII_1700_Autumn.ogg"
+}
+
+music = {
+	name = "Winter (EUII)"
+	file = "EUII_1700_Winter.ogg"
+}

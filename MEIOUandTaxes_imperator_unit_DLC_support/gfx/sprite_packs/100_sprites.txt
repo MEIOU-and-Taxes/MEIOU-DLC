@@ -1,0 +1,29 @@
+
+dlc100_rom_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = BYZ
+			tag = TRE
+			tag = THD
+		}
+	}
+	sprite_infantry = {
+		0 = roman_ROM_INFANTRY_1
+		1 = roman_ROM_INFANTRY_2
+		2 = roman_ROM_INFANTRY_3
+		3 = roman_ROM_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = roman_ROM_CAVALRY_1
+		1 = roman_ROM_CAVALRY_2
+		2 = roman_ROM_CAVALRY_3
+		3 = roman_ROM_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = roman_ROM_ARTILLERY_1
+		1 = roman_ROM_ARTILLERY_2
+		2 = roman_ROM_ARTILLERY_3
+		3 = roman_ROM_ARTILLERY_4
+	}
+}
+

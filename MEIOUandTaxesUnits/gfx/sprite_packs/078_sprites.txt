@@ -1,0 +1,109 @@
+dlc078_ade_sprite_pack = {
+		country_trigger = {
+		OR = {
+			primary_culture = yemeni
+			primary_culture = hadhrami
+		}
+	}
+	sprite_infantry = {
+		0 = cradle_ADE_INFANTRY_1
+		1 = cradle_ADE_INFANTRY_2
+		2 = cradle_ADE_INFANTRY_3
+		3 = cradle_ADE_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = cradle_ADE_CAVALRY_1
+		1 = cradle_ADE_CAVALRY_2
+		2 = cradle_ADE_CAVALRY_3
+		3 = cradle_ADE_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = cradle_ADE_ARTILLERY_1
+		1 = cradle_ADE_ARTILLERY_2
+		2 = cradle_ADE_ARTILLERY_3
+		3 = cradle_ADE_ARTILLERY_4
+	}
+}
+
+dlc078_hed_sprite_pack = {
+	country_trigger = {
+		primary_culture = hejazi
+	}
+	sprite_infantry = {
+		0 = cradle_HED_INFANTRY_1
+		1 = cradle_HED_INFANTRY_2
+		2 = cradle_HED_INFANTRY_3
+		3 = cradle_HED_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = cradle_HED_CAVALRY_1
+		1 = cradle_HED_CAVALRY_2
+		2 = cradle_HED_CAVALRY_3
+		3 = cradle_HED_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = cradle_HED_ARTILLERY_1
+		1 = cradle_HED_ARTILLERY_2
+		2 = cradle_HED_ARTILLERY_3
+		3 = cradle_HED_ARTILLERY_4
+	}
+}
+
+dlc078_naj_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = najdi
+			tag = AHS
+			tag = BKL
+		}
+		NOT = { tag = SHM }
+		NOT = { tag = ANZ }
+	}
+	sprite_infantry = {
+		0 = cradle_NAJ_INFANTRY_1
+		1 = cradle_NAJ_INFANTRY_2
+		2 = cradle_NAJ_INFANTRY_3
+		3 = cradle_NAJ_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = cradle_NAJ_CAVALRY_1
+		1 = cradle_NAJ_CAVALRY_2
+		2 = cradle_NAJ_CAVALRY_3
+		3 = cradle_NAJ_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = cradle_NAJ_ARTILLERY_1
+		1 = cradle_NAJ_ARTILLERY_2
+		2 = cradle_NAJ_ARTILLERY_3
+		3 = cradle_NAJ_ARTILLERY_4
+	}
+}
+
+dlc078_oma_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = omani
+			primary_culture = khaliji
+		}
+		NOT = { tag = AHS }
+		NOT = { tag = BKL }
+	}
+	sprite_infantry = {
+		0 = cradle_OMA_INFANTRY_1
+		1 = cradle_OMA_INFANTRY_2
+		2 = cradle_OMA_INFANTRY_3
+		3 = cradle_OMA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = cradle_OMA_CAVALRY_1
+		1 = cradle_OMA_CAVALRY_2
+		2 = cradle_OMA_CAVALRY_3
+		3 = cradle_OMA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = cradle_OMA_ARTILLERY_1
+		1 = cradle_OMA_ARTILLERY_2
+		2 = cradle_OMA_ARTILLERY_3
+		3 = cradle_OMA_ARTILLERY_4
+	}
+}

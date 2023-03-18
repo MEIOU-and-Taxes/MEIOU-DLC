@@ -1,0 +1,257 @@
+spriteTypes = {
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_philosopher_female"
+			texturefile = "gfx//interface//advisors//muslim_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//muslim_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_artist_female"
+			texturefile = "gfx//interface//advisors//muslim_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//muslim_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//muslim_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//muslim_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_trader_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//muslim_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//muslim_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//muslim_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//muslim_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//muslim_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//muslim_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//muslim_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		spriteType = {
+			name = "GFX_advisor_muslimgfx_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//muslim_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}

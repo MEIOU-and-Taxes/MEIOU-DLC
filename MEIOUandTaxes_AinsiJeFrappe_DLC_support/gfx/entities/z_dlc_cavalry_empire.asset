@@ -1,0 +1,232 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+#####         Empire        #####
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "HAB_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_HAB_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "HAB_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "HAB_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "BNT_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_BNT_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "BNT_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "BNT_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "PDB_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_PDB_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "PDB_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "PDB_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "MRK_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_MRK_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "MRK_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "MRK_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "FRD_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_FRD_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "FRD_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "FRD_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "MUN_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_MUN_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "MUN_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "MUN_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "RAV_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_RAV_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "RAV_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "RAV_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "TCK_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_TCK_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "TCK_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "TCK_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "OSN_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_OSN_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "OSN_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "OSN_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "BAR_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_BAR_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "BAR_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "BAR_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "MTV_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_MTV_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "MTV_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "MTV_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "LOR_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_LOR_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "LOR_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "LOR_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "STR_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_STR_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "STR_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "STR_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "BAD_CAVALRY_1_rider"
+	version = 10
+	pdxmesh = "hwarup_BAD_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "BAD_HYW_CAVALRY_1"
+	attach = {
+		name = "rider"
+		Saddle_Node = "BAD_CAVALRY_1_rider"
+	}
+}

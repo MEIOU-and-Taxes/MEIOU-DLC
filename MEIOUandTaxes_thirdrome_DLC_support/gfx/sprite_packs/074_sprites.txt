@@ -1,0 +1,125 @@
+
+dlc074_lit_sprite_pack = {
+	country_trigger = {
+		tag = LIT
+	}
+	sprite_infantry = {
+		1 = trup_LIT_INFANTRY_2
+		2 = trup_LIT_INFANTRY_3
+		3 = trup_LIT_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_LIT_CAVALRY_1
+		1 = trup_LIT_CAVALRY_2
+		2 = trup_LIT_CAVALRY_3
+		3 = trup_LIT_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = trup_LIT_ARTILLERY_2
+		2 = trup_LIT_ARTILLERY_3
+		3 = trup_LIT_ARTILLERY_4
+	}
+}
+
+dlc074_gvo_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = GVO
+			tag = TRK
+		}
+	}
+	sprite_infantry = {
+		0 = trup_LIT_INFANTRY_1
+		1 = trup_LIT_INFANTRY_2
+		2 = trup_LIT_INFANTRY_3
+		3 = trup_LIT_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_LIT_CAVALRY_1
+		1 = trup_LIT_CAVALRY_2
+		2 = trup_LIT_CAVALRY_3
+		3 = trup_LIT_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_LIT_ARTILLERY_1
+		1 = trup_LIT_ARTILLERY_2
+		2 = trup_LIT_ARTILLERY_3
+		3 = trup_LIT_ARTILLERY_4
+	}
+}
+
+dlc074_prm_sprite_pack = {
+	country_trigger = {
+		tag = PRM
+	}
+	sprite_infantry = {
+		0 = trup_PRM_INFANTRY_1
+		1 = trup_PRM_INFANTRY_2
+		2 = trup_PRM_INFANTRY_3
+		3 = trup_PRM_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_PRM_CAVALRY_1
+		1 = trup_PRM_CAVALRY_2
+		2 = trup_PRM_CAVALRY_3
+		3 = trup_PRM_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_PRM_ARTILLERY_1
+		1 = trup_PRM_ARTILLERY_2
+		2 = trup_PRM_ARTILLERY_3
+		3 = trup_PRM_ARTILLERY_4
+	}
+}
+
+dlc074_kaz_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = KAZ
+			tag = QAS
+			tag = MRQ
+		}
+	}
+	sprite_infantry = {
+		0 = trup_KAZ_INFANTRY_1
+		1 = trup_KAZ_INFANTRY_2
+		2 = trup_KAZ_INFANTRY_3
+		3 = trup_KAZ_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_KAZ_CAVALRY_1
+		1 = trup_KAZ_CAVALRY_2
+		2 = trup_KAZ_CAVALRY_3
+		3 = trup_KAZ_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_KAZ_ARTILLERY_1
+		1 = trup_KAZ_ARTILLERY_2
+		2 = trup_KAZ_ARTILLERY_3
+		3 = trup_KAZ_ARTILLERY_4
+	}
+}
+
+dlc074_psk_sprite_pack = {
+	country_trigger = {
+		tag = PSK
+	}
+	sprite_infantry = {
+		0 = trup_PSK_INFANTRY_1
+		1 = trup_PSK_INFANTRY_2
+		2 = trup_PSK_INFANTRY_3
+		3 = trup_PSK_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_PSK_CAVALRY_1
+		1 = trup_PSK_CAVALRY_2
+		2 = trup_PSK_CAVALRY_3
+		3 = trup_PSK_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_PSK_ARTILLERY_1
+		1 = trup_PSK_ARTILLERY_2
+		2 = trup_PSK_ARTILLERY_3
+		3 = trup_PSK_ARTILLERY_4
+	}
+}

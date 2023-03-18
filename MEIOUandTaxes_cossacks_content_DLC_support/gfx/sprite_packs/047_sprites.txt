@@ -1,0 +1,152 @@
+
+dlc047_zaz_sprite_pack = {
+	country_trigger = {
+		OR = { tag = ZAZ tag = AST }
+	}
+	sprite_infantry = {
+		0 = A47_INFANTRY_1
+		1 = A47_INFANTRY_2
+		2 = A47_INFANTRY_3
+		3 = A47_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = A47_CAVALRY_1
+		1 = A47_CAVALRY_2
+		2 = A47_CAVALRY_3
+		3 = A47_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = A47_ARTILLERY_1
+		1 = A47_ARTILLERY_2
+		2 = A47_ARTILLERY_3
+		3 = A47_ARTILLERY_4
+	}
+}
+
+dlc047_cri_sprite_pack = {
+	country_trigger = {
+		OR = { tag = CRI tag = KAZ }
+	}
+	sprite_infantry = {
+		0 = B47_INFANTRY_1
+		1 = B47_INFANTRY_2
+		2 = B47_INFANTRY_3
+		3 = B47_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = B47_CAVALRY_1
+		1 = B47_CAVALRY_2
+		2 = B47_CAVALRY_3
+		3 = B47_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = B47_ARTILLERY_1
+		1 = B47_ARTILLERY_2
+		2 = B47_ARTILLERY_3
+		3 = B47_ARTILLERY_4
+	}
+}
+
+dlc047_cir_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = CIR
+			tag = GAZ
+			tag = SHI
+			tag = ABZ
+			tag = CHN
+			tag = ABK
+			tag = SMT
+			tag = MZA
+			tag = ATB
+			tag = SDB
+			tag = JQB
+			tag = KTD
+			tag = MIH
+			tag = MUZ
+			tag = ORM
+			tag = ISF
+			tag = HAZ
+			tag = PER
+			tag = AVR
+			tag = KBR
+			tag = OSS
+			tag = MNT
+		}
+	}
+	sprite_infantry = {
+		0 = C47_INFANTRY_1
+		1 = C47_INFANTRY_2
+		2 = C47_INFANTRY_3
+		3 = C47_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = C47_CAVALRY_1
+		1 = C47_CAVALRY_2
+		2 = C47_CAVALRY_3
+		3 = C47_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = C47_ARTILLERY_1
+		1 = C47_ARTILLERY_2
+		2 = C47_ARTILLERY_3
+		3 = C47_ARTILLERY_4
+	}
+}
+
+dlc047_feo_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = FEO
+			tag = THD
+			tag = GEO
+			tag = IME
+			tag = KRT
+			tag = KAK
+			tag = ARM
+			tag = SYU
+		}
+	}
+	sprite_infantry = {
+		0 = D47_INFANTRY_1
+		1 = D47_INFANTRY_2
+		2 = D47_INFANTRY_3
+		3 = D47_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = D47_CAVALRY_1
+		1 = D47_CAVALRY_2
+		2 = D47_CAVALRY_3
+		3 = D47_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = D47_ARTILLERY_1
+		1 = D47_ARTILLERY_2
+		2 = D47_ARTILLERY_3
+		3 = D47_ARTILLERY_4
+	}
+}
+
+dlc047_BYZ_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = BYZ
+			tag = TRE
+		}
+	}
+	sprite_infantry = {
+		1 = D47_INFANTRY_2
+		2 = D47_INFANTRY_3
+		3 = D47_INFANTRY_4
+	}
+	sprite_cavalry = {
+		1 = D47_CAVALRY_2
+		2 = D47_CAVALRY_3
+		3 = D47_CAVALRY_4
+	}
+	sprite_artillery = {
+		1 = D47_ARTILLERY_2
+		2 = D47_ARTILLERY_3
+		3 = D47_ARTILLERY_4
+	}
+}

@@ -1,0 +1,158 @@
+
+dlc056_fir_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = FIR
+			tag = TUS
+		}
+	}
+	sprite_infantry = {
+		0 = marnoup_FIR_INFANTRY_1
+		1 = marnoup_FIR_INFANTRY_2
+		2 = marnoup_FIR_INFANTRY_3
+		3 = marnoup_FIR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = marnoup_FIR_CAVALRY_1
+		1 = marnoup_FIR_CAVALRY_2
+		2 = marnoup_FIR_CAVALRY_3
+		3 = marnoup_FIR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = marnoup_FIR_ARTILLERY_1
+		1 = marnoup_FIR_ARTILLERY_2
+		2 = marnoup_FIR_ARTILLERY_3
+		3 = marnoup_FIR_ARTILLERY_4
+	}
+}
+
+dlc056_lan_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = LUC
+			tag = SIE
+			tag = PIS
+		}
+	}
+	sprite_infantry = {
+		0 = marnoup_LAN_INFANTRY_1
+		1 = marnoup_LAN_INFANTRY_2
+		2 = marnoup_LAN_INFANTRY_3
+		3 = marnoup_LAN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = marnoup_LAN_CAVALRY_1
+		1 = marnoup_LAN_CAVALRY_2
+		2 = marnoup_LAN_CAVALRY_3
+		3 = marnoup_LAN_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = marnoup_LAN_ARTILLERY_1
+		1 = marnoup_LAN_ARTILLERY_2
+		2 = marnoup_LAN_ARTILLERY_3
+		3 = marnoup_LAN_ARTILLERY_4
+	}
+}
+
+dlc056_mlo_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = MLO
+			tag = VER
+			tag = PAR
+			tag = MAN
+			tag = ITA
+		}
+	}
+	sprite_infantry = {
+		0 = marnoup_MLO_INFANTRY_1
+		1 = marnoup_MLO_INFANTRY_2
+		2 = marnoup_MLO_INFANTRY_3
+		3 = marnoup_MLO_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = marnoup_MLO_CAVALRY_1
+		1 = marnoup_MLO_CAVALRY_2
+		2 = marnoup_MLO_CAVALRY_3
+		3 = marnoup_MLO_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = marnoup_MLO_ARTILLERY_1
+		1 = marnoup_MLO_ARTILLERY_2
+		2 = marnoup_MLO_ARTILLERY_3
+		3 = marnoup_MLO_ARTILLERY_4
+	}
+}
+
+dlc056_nap_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = NAP
+			tag = KNP
+			tag = SIC
+			tag = ALC
+		}
+	}
+	sprite_infantry = {
+		0 = marnoup_NAP_INFANTRY_1
+		1 = marnoup_NAP_INFANTRY_2
+		2 = marnoup_NAP_INFANTRY_3
+		3 = marnoup_NAP_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = marnoup_NAP_CAVALRY_1
+		1 = marnoup_NAP_CAVALRY_2
+		2 = marnoup_NAP_CAVALRY_3
+		3 = marnoup_NAP_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = marnoup_NAP_ARTILLERY_1
+		1 = marnoup_NAP_ARTILLERY_2
+		2 = marnoup_NAP_ARTILLERY_3
+		3 = marnoup_NAP_ARTILLERY_4
+	}
+}
+
+dlc056_ven_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = VEN
+			tag = FIU
+			tag = TTE
+			tag = GOR
+			tag = AQU
+			tag = PAD
+			tag = TNT
+		}
+	}
+	sprite_infantry = {
+		0 = marnoup_VEN_INFANTRY_1
+		1 = marnoup_VEN_INFANTRY_2
+		2 = marnoup_VEN_INFANTRY_3
+		3 = marnoup_VEN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = marnoup_VEN_CAVALRY_1
+		1 = marnoup_VEN_CAVALRY_2
+		2 = marnoup_VEN_CAVALRY_3
+		3 = marnoup_VEN_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = marnoup_VEN_ARTILLERY_1
+		1 = marnoup_VEN_ARTILLERY_2
+		2 = marnoup_VEN_ARTILLERY_3
+		3 = marnoup_VEN_ARTILLERY_4
+	}
+}
+
+dlc056_fra_sprite_pack = {
+	country_trigger = {
+		tag = FRA
+	}
+	sprite_infantry = {
+		3 = marnoup_FRA_INFANTRY_4
+	}
+	sprite_artillery = {
+		3 = marnoup_FRA_ARTILLERY_4
+	}
+}

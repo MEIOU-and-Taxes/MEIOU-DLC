@@ -1,0 +1,93 @@
+
+###################################################################################################################
+#####                                                                                                         #####
+#####                                           GIGAU'S LEVEL 1                                               #####
+#####                                                                                                         #####
+###################################################################################################################
+
+#####         Italy         #####
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "NIC_CAVALRY_1_rider"
+	version = 9
+	pdxmesh = "hwarup_NIC_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "NIC_HYW_CAVALRY_1"
+	version = 9
+	attach = {
+		name = "rider"
+		Saddle_Node = "NIC_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "PAP_CAVALRY_1_rider"
+	version = 9
+	pdxmesh = "hwarup_PAP_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "PAP_HYW_CAVALRY_1"
+	version = 9
+	attach = {
+		name = "rider"
+		Saddle_Node = "PAP_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "GEN_CAVALRY_1_rider"
+	version = 9
+	pdxmesh = "hwarup_GEN_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "GEN_HYW_CAVALRY_1"
+	version = 9
+	attach = {
+		name = "rider"
+		Saddle_Node = "GEN_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "MFT_CAVALRY_1_rider"
+	version = 9
+	pdxmesh = "hwarup_MFT_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "MFT_HYW_CAVALRY_1"
+	version = 9
+	attach = {
+		name = "rider"
+		Saddle_Node = "MFT_CAVALRY_1_rider"
+	}
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1_rider"
+	name = "SAL_CAVALRY_1_rider"
+	version = 9
+	pdxmesh = "hwarup_SAL_infantry_01_mesh"
+}
+
+entity = {
+	clone = "westerngfx_CAVALRY_1"
+	name = "SAL_HYW_CAVALRY_1"
+	version = 9
+	attach = {
+		name = "rider"
+		Saddle_Node = "SAL_CAVALRY_1_rider"
+	}
+}

@@ -1,0 +1,78 @@
+dlc035_azt_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = nahua_group
+			culture_group = totonac_group
+			culture_group = purepechan_group
+		}
+	}
+	sprite_infantry = {
+		0 = meamup_AZT_INFANTRY_1
+		1 = meamup_AZT_INFANTRY_2
+		2 = meamup_AZT_INFANTRY_3
+		3 = meamup_AZT_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = meamup_AZT_CAVALRY_1
+		1 = meamup_AZT_CAVALRY_2
+		2 = meamup_AZT_CAVALRY_3
+		3 = meamup_AZT_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = meamup_AZT_ARTILLERY_1
+		1 = meamup_AZT_ARTILLERY_2
+		2 = meamup_AZT_ARTILLERY_3
+		3 = meamup_AZT_ARTILLERY_4
+	}
+}
+
+dlc035_may_sprite_pack = {
+	country_trigger = {
+		culture_group = maya
+	}
+	sprite_infantry = {
+		0 = meamup_MAY_INFANTRY_1
+		1 = meamup_MAY_INFANTRY_2
+		2 = meamup_MAY_INFANTRY_3
+		3 = meamup_MAY_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = meamup_MAY_CAVALRY_1
+		1 = meamup_MAY_CAVALRY_2
+		2 = meamup_MAY_CAVALRY_3
+		3 = meamup_MAY_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = meamup_MAY_ARTILLERY_1
+		1 = meamup_MAY_ARTILLERY_2
+		2 = meamup_MAY_ARTILLERY_3
+		3 = meamup_MAY_ARTILLERY_4
+	}
+}
+
+dlc035_zap_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = mixtec_group
+			culture_group = aridoamerican
+		}
+	}
+	sprite_infantry = {
+		0 = meamup_ZAP_INFANTRY_1
+		1 = meamup_ZAP_INFANTRY_2
+		2 = meamup_ZAP_INFANTRY_3
+		3 = meamup_ZAP_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = meamup_ZAP_CAVALRY_1
+		1 = meamup_ZAP_CAVALRY_2
+		2 = meamup_ZAP_CAVALRY_3
+		3 = meamup_ZAP_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = meamup_ZAP_ARTILLERY_1
+		1 = meamup_ZAP_ARTILLERY_2
+		2 = meamup_ZAP_ARTILLERY_3
+		3 = meamup_ZAP_ARTILLERY_4
+	}
+}

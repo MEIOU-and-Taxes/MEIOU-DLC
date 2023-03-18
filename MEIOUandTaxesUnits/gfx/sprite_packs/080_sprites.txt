@@ -1,0 +1,101 @@
+
+dlc080_alh_sprite_pack = {
+	country_trigger = {
+		primary_culture = iraqi
+	}
+	sprite_infantry = {
+		0 = rivers_ALH_INFANTRY_1
+		1 = rivers_ALH_INFANTRY_2
+		2 = rivers_ALH_INFANTRY_3
+		3 = rivers_ALH_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = rivers_ALH_CAVALRY_1
+		1 = rivers_ALH_CAVALRY_2
+		2 = rivers_ALH_CAVALRY_3
+		3 = rivers_ALH_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = rivers_ALH_ARTILLERY_1
+		1 = rivers_ALH_ARTILLERY_2
+		2 = rivers_ALH_ARTILLERY_3
+		3 = rivers_ALH_ARTILLERY_4
+	}
+}
+
+dlc080_akk_sprite_pack = {
+	country_trigger = {
+		primary_culture = turkoman
+	}
+	sprite_infantry = {
+		0 = rivers_AKK_INFANTRY_1
+		1 = rivers_AKK_INFANTRY_2
+		2 = rivers_AKK_INFANTRY_3
+		3 = rivers_AKK_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = rivers_AKK_CAVALRY_1
+		1 = rivers_AKK_CAVALRY_2
+		2 = rivers_AKK_CAVALRY_3
+		3 = rivers_AKK_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = rivers_AKK_ARTILLERY_1
+		1 = rivers_AKK_ARTILLERY_2
+		2 = rivers_AKK_ARTILLERY_3
+		3 = rivers_AKK_ARTILLERY_4
+	}
+}
+
+dlc080_shm_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SHM
+			tag = ANZ
+			tag = FAD
+		}
+	}
+	sprite_infantry = {
+		0 = rivers_SHM_INFANTRY_1
+		1 = rivers_SHM_INFANTRY_2
+		2 = rivers_SHM_INFANTRY_3
+		3 = rivers_SHM_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = rivers_SHM_CAVALRY_1
+		1 = rivers_SHM_CAVALRY_2
+		2 = rivers_SHM_CAVALRY_3
+		3 = rivers_SHM_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = rivers_SHM_ARTILLERY_1
+		1 = rivers_SHM_ARTILLERY_2
+		2 = rivers_SHM_ARTILLERY_3
+		3 = rivers_SHM_ARTILLERY_4
+	}
+}
+
+dlc080_qar_sprite_pack = {
+	country_trigger = {
+		primary_culture = kurdish
+	}
+	sprite_infantry = {
+		0 = rivers_QAR_INFANTRY_1
+		1 = rivers_QAR_INFANTRY_2
+		2 = rivers_QAR_INFANTRY_3
+		3 = rivers_QAR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = rivers_QAR_CAVALRY_1
+		1 = rivers_QAR_CAVALRY_2
+		2 = rivers_QAR_CAVALRY_3
+		3 = rivers_QAR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = rivers_QAR_ARTILLERY_1
+		1 = rivers_QAR_ARTILLERY_2
+		2 = rivers_QAR_ARTILLERY_3
+		3 = rivers_QAR_ARTILLERY_4
+	}
+}
+

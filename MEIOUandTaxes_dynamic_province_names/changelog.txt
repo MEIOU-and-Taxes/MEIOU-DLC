@@ -1,0 +1,23 @@
+###Official Dynamic Provinces Submod for MEIOU and Taxes 3.0
+
+#V0.1
+
+-Some 400 Dutch dynamic names added by Mepper
+-Some 100 Frysian dynamic names added by Mepper
+
+#V0.2 
+
+-New names added: Total is now 456 Dutch names; 161 Frysian names
+-Copied dutch.txt to flemish.txt and brabantian.txt since the languages are virtually the same. Its not entirely the same irl but this is much better than nothing. 
+
+#V0.3
+-Polish colonial dynamic names moved to this submod and some 80 Polish dynamic names added by Mati (Commonwealth provinces and Silesia); roughly 1600 total Polish names
+-Fix typo in Oldenburg name for Dutch and equivalents 
+-Copy Dutch names for dutch_colonial culture
+
+#V0.4
+-Added 44 dynamic Welsh names (Jackbones)
+
+#V0.5
+-Added 45 dynamic Albanian names (Erblin)
+-minor fixes to Polish names to match changes to the map

@@ -1,0 +1,138 @@
+
+dlc092_bah_sprite_pack = {
+	country_trigger = {
+		culture_group = marathi_group
+	}
+	sprite_infantry = {
+		0 = dharma_BAH_INFANTRY_1
+		1 = dharma_BAH_INFANTRY_2
+		2 = dharma_BAH_INFANTRY_3
+		3 = dharma_BAH_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = dharma_BAH_CAVALRY_1
+		1 = dharma_BAH_CAVALRY_2
+		2 = dharma_BAH_CAVALRY_3
+		3 = dharma_BAH_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = dharma_BAH_ARTILLERY_1
+		1 = dharma_BAH_ARTILLERY_2
+		2 = dharma_BAH_ARTILLERY_3
+		3 = dharma_BAH_ARTILLERY_4
+	}
+}
+
+dlc092_guj_sprite_pack = {
+	country_trigger = {
+		OR = {
+			primary_culture = gujarati
+			primary_culture = sindhi
+		}
+	}
+	sprite_infantry = {
+		0 = dharma_GUJ_INFANTRY_1
+		1 = dharma_GUJ_INFANTRY_2
+		2 = dharma_GUJ_INFANTRY_3
+		3 = dharma_GUJ_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = dharma_GUJ_CAVALRY_1
+		1 = dharma_GUJ_CAVALRY_2
+		2 = dharma_GUJ_CAVALRY_3
+		3 = dharma_GUJ_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = dharma_GUJ_ARTILLERY_1
+		1 = dharma_GUJ_ARTILLERY_2
+		2 = dharma_GUJ_ARTILLERY_3
+		3 = dharma_GUJ_ARTILLERY_4
+	}
+}
+
+dlc092_jnp_sprite_pack = {
+	country_trigger = {
+		culture_group = rajput
+		NOT = { primary_culture = gujarati }
+		religion_group = muslim
+	}
+	sprite_infantry = {
+		0 = dharma_JNP_INFANTRY_1
+		1 = dharma_JNP_INFANTRY_2
+		2 = dharma_JNP_INFANTRY_3
+		3 = dharma_JNP_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = dharma_JNP_CAVALRY_1
+		1 = dharma_JNP_CAVALRY_2
+		2 = dharma_JNP_CAVALRY_3
+		3 = dharma_JNP_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = dharma_JNP_ARTILLERY_1
+		1 = dharma_JNP_ARTILLERY_2
+		2 = dharma_JNP_ARTILLERY_3
+		3 = dharma_JNP_ARTILLERY_4
+	}
+}
+
+dlc092_mlw_sprite_pack = {
+	country_trigger = {
+		culture_group = hindi
+	}
+	sprite_infantry = {
+		0 = dharma_MLW_INFANTRY_1
+		1 = dharma_MLW_INFANTRY_2
+		2 = dharma_MLW_INFANTRY_3
+		3 = dharma_MLW_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = dharma_MLW_CAVALRY_1
+		1 = dharma_MLW_CAVALRY_2
+		2 = dharma_MLW_CAVALRY_3
+		3 = dharma_MLW_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = dharma_MLW_ARTILLERY_1
+		1 = dharma_MLW_ARTILLERY_2
+		2 = dharma_MLW_ARTILLERY_3
+		3 = dharma_MLW_ARTILLERY_4
+	}
+}
+
+dlc092_mug_sprite_pack = {
+	country_trigger = {
+		tag = MUG
+	}
+	sprite_infantry = {
+		0 = dharma_MUG_INFANTRY_1
+		1 = dharma_MUG_INFANTRY_2
+		2 = dharma_MUG_INFANTRY_3
+		3 = dharma_MUG_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = dharma_MUG_CAVALRY_1
+		1 = dharma_MUG_CAVALRY_2
+		2 = dharma_MUG_CAVALRY_3
+		3 = dharma_MUG_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = dharma_MUG_ARTILLERY_1
+		1 = dharma_MUG_ARTILLERY_2
+		2 = dharma_MUG_ARTILLERY_3
+		3 = dharma_MUG_ARTILLERY_4
+	}
+}
+
+dlc092_bng_sprite_pack = {
+	country_trigger = {
+		culture_group = eastern_aryan
+		religion_group = muslim
+	}
+	sprite_artillery = {
+		0 = dharma_BNG_CAVALRY_1
+		1 = dharma_BNG_CAVALRY_2
+		2 = dharma_BNG_CAVALRY_3
+		3 = dharma_BNG_CAVALRY_4
+	}
+}

@@ -1,0 +1,1123 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_persian_group_philosopher"
+		texturefile = "gfx//interface//advisors//persian_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_philosopher_female"
+			texturefile = "gfx//interface//advisors//persian_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_natural_scientist"
+		texturefile = "gfx//interface//advisors//persian_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//persian_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_artist"
+		texturefile = "gfx//interface//advisors//persian_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_artist_female"
+			texturefile = "gfx//interface//advisors//persian_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_statesman_NO"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_statesman_BG"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_statesman_CL"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_statesman_BU"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_treasurer_NO"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_treasurer_BG"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_treasurer_BU"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//persian_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//persian_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//persian_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//persian_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_trader_BG"
+		texturefile = "gfx//interface//advisors//persian_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_trader_BG_female"
+			texturefile = "gfx//interface//advisors//persian_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_theologian_CL"
+		texturefile = "gfx//interface//advisors//persian_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//persian_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_spymaster_NO"
+		texturefile = "gfx//interface//advisors//persian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//persian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_persian_group_spymaster_BU"
+		texturefile = "gfx//interface//advisors//persian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//persian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_diplomat_NO"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_diplomat_BG"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_persian_group_diplomat_TR"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_diplomat_BU"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//persian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//persian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//persian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//persian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_navigator_ML"
+		texturefile = "gfx//interface//advisors//persian_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//persian_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//persian_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//persian_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//persian_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//persian_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_commandant_ML"
+		texturefile = "gfx//interface//advisors//persian_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//persian_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//persian_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//persian_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//persian_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//persian_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//persian_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//persian_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_persian_group_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//persian_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_persian_group_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//persian_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+	spriteType = {
+		name = "GFX_advisor_oghuz_philosopher"
+		texturefile = "gfx//interface//advisors//persian_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_philosopher_female"
+			texturefile = "gfx//interface//advisors//persian_philosopher_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_natural_scientist"
+		texturefile = "gfx//interface//advisors//persian_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_natural_scientist_female"
+			texturefile = "gfx//interface//advisors//persian_natural_scientist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_artist"
+		texturefile = "gfx//interface//advisors//persian_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_artist_female"
+			texturefile = "gfx//interface//advisors//persian_artist_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_statesman_NO"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_statesman_NO_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_statesman_BG"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_statesman_BG_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_statesman_CL"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_statesman_CL_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_statesman_BU"
+		texturefile = "gfx//interface//advisors//persian_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_statesman_BU_female"
+			texturefile = "gfx//interface//advisors//persian_statesman_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_treasurer_NO"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_treasurer_NO_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_treasurer_BG"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_treasurer_BG_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_treasurer_BU"
+		texturefile = "gfx//interface//advisors//persian_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_treasurer_BU_female"
+			texturefile = "gfx//interface//advisors//persian_treasurer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//persian_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_naval_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//persian_naval_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//persian_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_army_reformer_ML_female"
+			texturefile = "gfx//interface//advisors//persian_army_reformer_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_trader_BG"
+		texturefile = "gfx//interface//advisors//persian_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_trader_BG_female"
+			texturefile = "gfx//interface//advisors//persian_trader_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_theologian_CL"
+		texturefile = "gfx//interface//advisors//persian_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_theologian_CL_female"
+			texturefile = "gfx//interface//advisors//persian_theologian_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_spymaster_NO"
+		texturefile = "gfx//interface//advisors//persian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_spymaster_NO_female"
+			texturefile = "gfx//interface//advisors//persian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	spriteType = {
+		name = "GFX_advisor_oghuz_spymaster_BU"
+		texturefile = "gfx//interface//advisors//persian_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_spymaster_BU_female"
+			texturefile = "gfx//interface//advisors//persian_spymaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_colonial_governor_NO_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_colonial_governor_BG_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//persian_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_colonial_governor_BU_female"
+			texturefile = "gfx//interface//advisors//persian_colonial_governor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_diplomat_NO"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_diplomat_NO_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_diplomat_BG"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_diplomat_BG_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+		
+	spriteType = {
+		name = "GFX_advisor_oghuz_diplomat_TR"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_diplomat_TR_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_diplomat_BU"
+		texturefile = "gfx//interface//advisors//persian_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_diplomat_BU_female"
+			texturefile = "gfx//interface//advisors//persian_diplomat_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//persian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_master_of_mint_BG_female"
+			texturefile = "gfx//interface//advisors//persian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//persian_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_master_of_mint_BU_female"
+			texturefile = "gfx//interface//advisors//persian_master_of_mint_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_navigator_ML"
+		texturefile = "gfx//interface//advisors//persian_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_navigator_ML_female"
+			texturefile = "gfx//interface//advisors//persian_navigator_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//persian_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_grand_captain_ML_female"
+			texturefile = "gfx//interface//advisors//persian_grand_captain_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//persian_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_army_organiser_ML_female"
+			texturefile = "gfx//interface//advisors//persian_army_organiser_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_commandant_ML"
+		texturefile = "gfx//interface//advisors//persian_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_commandant_ML_female"
+			texturefile = "gfx//interface//advisors//persian_commandant_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//persian_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_quartermaster_ML_female"
+			texturefile = "gfx//interface//advisors//persian_quartermaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//persian_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_recruitmaster_ML_female"
+			texturefile = "gfx//interface//advisors//persian_recruitmaster_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//persian_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_fortification_expert_ML_female"
+			texturefile = "gfx//interface//advisors//persian_fortification_expert_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+	
+	spriteType = {
+		name = "GFX_advisor_oghuz_inquisitor_CL"
+		texturefile = "gfx//interface//advisors//persian_inquisitor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		spriteType = {
+			name = "GFX_advisor_oghuz_inquisitor_CL_female"
+			texturefile = "gfx//interface//advisors//persian_inquisitor_female.tga"
+			noOfFrames = 1
+			norefcount = yes
+			effectFile = "gfx/FX/buttonstate.shader"
+			loadType = "INGAME"
+		}
+
+}

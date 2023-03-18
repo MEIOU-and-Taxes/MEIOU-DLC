@@ -1,0 +1,20 @@
+#!/bin/bash
+echo -e 'Files required for hotfix:'
+git --no-pager diff $1 $2 -M --name-status --minimal --diff-filter=AMDR MEIOUandTaxes1/
+git diff $1 $2 -M --name-only --minimal --diff-filter=AMDR MEIOUandTaxes1/ > hotfix-changes-temp-file.txt
+
+echo -e '\r\nCreating dummy files:'
+git --no-pager diff $1 $2 -M --name-status --minimal --diff-filter=DR MEIOUandTaxes1/
+for filename in `git diff $1 $2 -M --name-status --minimal --diff-filter=DR MEIOUandTaxes1/ | cut -f2`
+do
+	touch $filename
+	echo '#file scheduled for deletion in the next release' > $filename
+done 
+7z a -mx9 "$2 Patch.7z" @hotfix-changes-temp-file.txt
+
+echo -e '\r\nRemoving temporary files'
+rm hotfix-changes-temp-file.txt
+for filename in `git diff $1 $2 -M --name-status --minimal --diff-filter=DR MEIOUandTaxes1/ | cut -f2`
+do
+	rm $filename
+done

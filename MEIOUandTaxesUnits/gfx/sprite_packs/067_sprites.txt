@@ -1,0 +1,218 @@
+
+dlc067_dte_sprite_pack = {
+	country_trigger = {
+		tag = DTE
+	}
+	sprite_infantry = {
+		0 = mandate_DTE_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_DTE_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_DTE_ARTILLERY_1
+	}
+}
+
+dlc067_hkw_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = HKW
+			tag = AMA
+			tag = ISK
+			tag = MAE
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_HSK_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_HSK_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_HSK_ARTILLERY_1
+	}
+}
+
+dlc067_hky_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = HKY
+			tag = AKT
+			tag = ASA
+			tag = TTI
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_HTK_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_HTK_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_HTK_ARTILLERY_1
+	}
+}
+
+dlc067_igw_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = IGW
+			tag = STK
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_IMG_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_IMG_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_IMG_ARTILLERY_1
+	}
+}
+
+dlc067_otm_sprite_pack = {
+	country_trigger = {
+		tag = OTM
+	}
+	sprite_infantry = {
+		0 = mandate_OTM_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_OTM_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_OTM_ARTILLERY_1
+	}
+}
+
+dlc067_ouc_sprite_pack = {
+	country_trigger = {
+		tag = OUC
+	}
+	sprite_infantry = {
+		0 = mandate_OUC_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_OUC_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_OUC_ARTILLERY_1
+	}
+}
+
+dlc067_sba_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SBA
+			tag = CBA
+			tag = OGS
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_SBA_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_SBA_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_SBA_ARTILLERY_1
+	}
+}
+
+dlc067_smz_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SMZ
+			tag = KKC
+			tag = ITO
+			tag = SHN
+			tag = IKE
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_SMZ_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_SMZ_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_SMZ_ARTILLERY_1
+	}
+}
+
+dlc067_tkd_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = TKD
+			tag = MRI
+			tag = TKG
+			tag = ODA
+			tag = TKI
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_TKD_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_TKD_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_TKD_ARTILLERY_1
+	}
+}
+
+dlc067_usg_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = USG
+			tag = HJO
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_UES_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_UES_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_UES_ARTILLERY_1
+	}
+}
+
+dlc067_mnb_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = TKI
+			tag = UTN
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_RFR_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_RFR_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_RFR_ARTILLERY_1
+	}
+}
+
+dlc067_ymn_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = YMN
+			tag = AKM
+		}
+	}
+	sprite_infantry = {
+		0 = mandate_YMN_INFANTRY_1
+	}
+	sprite_cavalry = {
+		0 = mandate_YMN_CAVALRY_1
+	}
+	sprite_artillery = {
+		0 = mandate_YMN_ARTILLERY_1
+	}
+}

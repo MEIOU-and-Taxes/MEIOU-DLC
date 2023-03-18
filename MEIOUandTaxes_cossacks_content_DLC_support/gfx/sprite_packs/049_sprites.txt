@@ -1,0 +1,52 @@
+dlc049_ENG_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = british
+			culture_group = gaelic
+			AND = { culture_group = brythonic NOT = { primary_culture = breton } }
+		}
+	}
+	sprite_cavalry = {
+		0 = ENG_NEWCAV_CAVALRY_1
+		1 = ENG_NEWCAV_CAVALRY_2
+		2 = ENG_NEWCAV_CAVALRY_3
+		3 = eucavup_ENG_CAVALRY_4
+	}
+}
+
+dlc049_FRA_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = langue_d_oil
+			culture_group = langue_d_oc
+			culture_group = low_frankish
+			primary_culture = breton
+		}
+	}
+	sprite_cavalry = {
+		0 = eucavup_FRA_CAVALRY_1
+		1 = eucavup_FRA_CAVALRY_2
+		2 = eucavup_FRA_CAVALRY_3
+		3 = eucavup_FRA_CAVALRY_4
+	}
+}
+
+dlc049_SPA_sprite_pack = {
+	country_trigger = {
+		OR = {
+			AND = {
+				culture_group = iberian
+				NOT = { primary_culture = portugese }
+				NOT = { primary_culture = portuguese_colonial }
+				NOT = { is_colonial_nation_of = POR }
+			}
+			culture_group = basque_group
+		}
+	}
+	sprite_cavalry = {
+		0 = eucavup_SPA_CAVALRY_1
+		1 = eucavup_SPA_CAVALRY_2
+		2 = eucavup_SPA_CAVALRY_3
+		3 = eucavup_SPA_CAVALRY_4
+	}
+}

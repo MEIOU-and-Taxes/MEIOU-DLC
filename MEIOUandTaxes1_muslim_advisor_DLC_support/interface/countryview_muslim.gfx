@@ -1,0 +1,289 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_philosopher"
+		texturefile = "gfx//interface//advisors//muslim_philosopher.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_natural_scientist"
+		texturefile = "gfx//interface//advisors//muslim_natural_scientist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_artist"
+		texturefile = "gfx//interface//advisors//muslim_artist.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_statesman_NO"
+		texturefile = "gfx//interface//advisors//muslim_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_statesman_BG"
+		texturefile = "gfx//interface//advisors//muslim_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_statesman_CL"
+		texturefile = "gfx//interface//advisors//muslim_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_statesman_BU"
+		texturefile = "gfx//interface//advisors//muslim_statesman.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_treasurer_NO"
+		texturefile = "gfx//interface//advisors//muslim_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_treasurer_BG"
+		texturefile = "gfx//interface//advisors//muslim_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_treasurer_BU"
+		texturefile = "gfx//interface//advisors//muslim_treasurer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_naval_reformer_ML"
+		texturefile = "gfx//interface//advisors//muslim_naval_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_army_reformer_ML"
+		texturefile = "gfx//interface//advisors//muslim_army_reformer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_trader_BG"
+		texturefile = "gfx//interface//advisors//muslim_trader.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_theologian_CL"
+		texturefile = "gfx//interface//advisors//muslim_theologian.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_spymaster_NO"
+		texturefile = "gfx//interface//advisors//muslim_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_spymaster_BU"
+		texturefile = "gfx//interface//advisors//muslim_spymaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_colonial_governor_NO"
+		texturefile = "gfx//interface//advisors//muslim_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_colonial_governor_BG"
+		texturefile = "gfx//interface//advisors//muslim_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_colonial_governor_BU"
+		texturefile = "gfx//interface//advisors//muslim_colonial_governor.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_diplomat_NO"
+		texturefile = "gfx//interface//advisors//muslim_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_diplomat_BG"
+		texturefile = "gfx//interface//advisors//muslim_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+		
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_diplomat_TR"
+		texturefile = "gfx//interface//advisors//muslim_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_diplomat_BU"
+		texturefile = "gfx//interface//advisors//muslim_diplomat.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_master_of_mint_BG"
+		texturefile = "gfx//interface//advisors//muslim_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_master_of_mint_BU"
+		texturefile = "gfx//interface//advisors//muslim_master_of_mint.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_navigator_ML"
+		texturefile = "gfx//interface//advisors//muslim_navigator.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_grand_captain_ML"
+		texturefile = "gfx//interface//advisors//muslim_grand_captain.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_army_organiser_ML"
+		texturefile = "gfx//interface//advisors//muslim_army_organiser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_commandant_ML"
+		texturefile = "gfx//interface//advisors//muslim_commandant.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_quartermaster_ML"
+		texturefile = "gfx//interface//advisors//muslim_quartermaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_recruitmaster_ML"
+		texturefile = "gfx//interface//advisors//muslim_recruitmaster.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+	
+	spriteType = {
+		name = "GFX_advisor_muslimgfx_fortification_expert_ML"
+		texturefile = "gfx//interface//advisors//muslim_fortification_expert.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.shader"
+		loadType = "INGAME"
+	}
+}

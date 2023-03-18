@@ -1,0 +1,112 @@
+
+dlc073_rya_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = RYA
+			tag = TSS
+		}
+	}
+	sprite_infantry = {
+		0 = trup_RYA_INFANTRY_1
+		1 = trup_RYA_INFANTRY_2
+		2 = trup_RYA_INFANTRY_3
+		3 = trup_RYA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_RYA_CAVALRY_1
+		1 = trup_RYA_CAVALRY_2
+		2 = trup_RYA_CAVALRY_3
+		3 = trup_RYA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_RYA_ARTILLERY_1
+		1 = trup_RYA_ARTILLERY_2
+		2 = trup_RYA_ARTILLERY_3
+		3 = trup_RYA_ARTILLERY_4
+	}
+}
+
+dlc073_oka_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = OKA
+			tag = VOR
+			tag = NVS
+			tag = KRC
+			tag = BRK
+		}
+	}
+	sprite_infantry = {
+		0 = trup_OKA_INFANTRY_1
+		1 = trup_OKA_INFANTRY_2
+		2 = trup_OKA_INFANTRY_3
+		3 = trup_OKA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_OKA_CAVALRY_1
+		1 = trup_OKA_CAVALRY_2
+		2 = trup_OKA_CAVALRY_3
+		3 = trup_OKA_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_OKA_ARTILLERY_1
+		1 = trup_OKA_ARTILLERY_2
+		2 = trup_OKA_ARTILLERY_3
+		3 = trup_OKA_ARTILLERY_4
+	}
+}
+
+dlc073_tve_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = TVE
+			tag = ROS
+		}
+	}
+	sprite_infantry = {
+		0 = trup_TVE_INFANTRY_1
+		1 = trup_TVE_INFANTRY_2
+		2 = trup_TVE_INFANTRY_3
+		3 = trup_TVE_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_TVE_CAVALRY_1
+		1 = trup_TVE_CAVALRY_2
+		2 = trup_TVE_CAVALRY_3
+		3 = trup_TVE_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_TVE_ARTILLERY_1
+		1 = trup_TVE_ARTILLERY_2
+		2 = trup_TVE_ARTILLERY_3
+		3 = trup_TVE_ARTILLERY_4
+	}
+}
+
+dlc073_yar_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = YAR
+			tag = BOZ
+			tag = GLC
+		}
+	}
+	sprite_infantry = {
+		0 = trup_YAR_INFANTRY_1
+		1 = trup_YAR_INFANTRY_2
+		2 = trup_YAR_INFANTRY_3
+		3 = trup_YAR_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = trup_YAR_CAVALRY_1
+		1 = trup_YAR_CAVALRY_2
+		2 = trup_YAR_CAVALRY_3
+		3 = trup_YAR_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = trup_YAR_ARTILLERY_1
+		1 = trup_YAR_ARTILLERY_2
+		2 = trup_YAR_ARTILLERY_3
+		3 = trup_YAR_ARTILLERY_4
+	}
+}

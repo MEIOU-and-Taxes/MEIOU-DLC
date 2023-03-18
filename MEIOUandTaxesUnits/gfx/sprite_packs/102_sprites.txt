@@ -1,0 +1,119 @@
+
+dlc102_bos_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = BOS
+			tag = HUM
+			tag = CRO
+			tag = RAG
+		}
+	}
+	sprite_infantry = {
+		0 = emperor_BOS_INFANTRY_1
+		1 = emperor_BOS_INFANTRY_2
+		2 = emperor_BOS_INFANTRY_3
+		3 = emperor_BOS_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = emperor_BOS_CAVALRY_1
+		1 = emperor_BOS_CAVALRY_2
+		2 = emperor_BOS_CAVALRY_3
+		3 = emperor_BOS_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = emperor_BOS_ARTILLERY_1
+		1 = emperor_BOS_ARTILLERY_2
+		2 = emperor_BOS_ARTILLERY_3
+		3 = emperor_BOS_ARTILLERY_4
+	}
+}
+
+dlc102_ser_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = SER
+			tag = VBZ
+			tag = VUK
+			tag = MKO
+			tag = MON
+			tag = SRR
+		}
+	}
+	sprite_infantry = {
+		0 = emperor_SER_INFANTRY_1
+		1 = emperor_SER_INFANTRY_2
+		2 = emperor_SER_INFANTRY_3
+		3 = emperor_SER_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = emperor_SER_CAVALRY_1
+		1 = emperor_SER_CAVALRY_2
+		2 = emperor_SER_CAVALRY_3
+		3 = emperor_SER_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = emperor_SER_ARTILLERY_1
+		1 = emperor_SER_ARTILLERY_2
+		2 = emperor_SER_ARTILLERY_3
+		3 = emperor_SER_ARTILLERY_4
+	}
+}
+
+dlc102_hun_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = HUN
+			tag = TRA
+		}
+	}
+	sprite_infantry = {
+		#0 = emperor_HUN_INFANTRY_1
+		1 = emperor_HUN_INFANTRY_2
+		2 = emperor_HUN_INFANTRY_3
+		3 = emperor_HUN_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = emperor_HUN_CAVALRY_1
+		1 = emperor_HUN_CAVALRY_2
+		2 = emperor_HUN_CAVALRY_3
+		3 = emperor_HUN_CAVALRY_4
+	}
+	sprite_artillery = {
+		#0 = emperor_HUN_ARTILLERY_1
+		1 = emperor_HUN_ARTILLERY_2
+		2 = emperor_HUN_ARTILLERY_3
+		3 = emperor_HUN_ARTILLERY_4
+	}
+}
+
+dlc102_wal_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = WAL
+			tag = DOB
+			tag = MOL
+			tag = ROU
+			tag = BUL
+			tag = TAR
+			tag = VID
+		}
+	}
+	sprite_infantry = {
+		0 = emperor_WAL_INFANTRY_1
+		1 = emperor_WAL_INFANTRY_2
+		2 = emperor_WAL_INFANTRY_3
+		3 = emperor_WAL_INFANTRY_4
+	}
+	sprite_cavalry = {
+		0 = emperor_WAL_CAVALRY_1
+		1 = emperor_WAL_CAVALRY_2
+		2 = emperor_WAL_CAVALRY_3
+		3 = emperor_WAL_CAVALRY_4
+	}
+	sprite_artillery = {
+		0 = emperor_WAL_ARTILLERY_1
+		1 = emperor_WAL_ARTILLERY_2
+		2 = emperor_WAL_ARTILLERY_3
+		3 = emperor_WAL_ARTILLERY_4
+	}
+}

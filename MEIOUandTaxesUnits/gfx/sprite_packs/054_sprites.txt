@@ -1,0 +1,57 @@
+dlc054_fra_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = langue_d_oil
+			culture_group = langue_d_oc
+			culture_group = low_frankish
+			primary_culture = breton
+		}
+	}
+	sprite_infantry = {
+		2 = evmajup_FRA_INFANTRY_3
+		3 = evmajup_FRA_INFANTRY_4
+	}
+	sprite_cavalry = {
+		2 = evmajup_FRA_CAVALRY_3
+		3 = evmajup_FRA_CAVALRY_4
+	}
+}
+
+dlc054_swe_sprite_pack = {
+	country_trigger = {
+		OR = {
+			culture_group = scandinavian
+			culture_group = finnic
+		}
+	}
+	sprite_infantry = {
+		#0 = evmajup_SWE_INFANTRY_1
+		2 = evmajup_SWE_INFANTRY_3
+		3 = evmajup_SWE_INFANTRY_4
+	}
+	sprite_cavalry = {
+		#0 = evmajup_SWE_CAVALRY_1
+		2 = evmajup_SWE_CAVALRY_3
+		3 = evmajup_SWE_CAVALRY_4
+	}
+}
+
+dlc054_pru_sprite_pack = {
+	country_trigger = {
+		OR = {
+			tag = PRU
+			tag = BRA
+			primary_culture = prussian
+		}
+	}
+	sprite_infantry = {
+		#0 = evmajup_PRU_INFANTRY_1
+		2 = evmajup_PRU_INFANTRY_3
+		3 = evmajup_PRU_INFANTRY_4
+	}
+	sprite_cavalry = {
+		#0 = evmajup_PRU_CAVALRY_1
+		2 = evmajup_PRU_CAVALRY_3
+		3 = evmajup_PRU_CAVALRY_4
+	}
+}
