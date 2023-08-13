@@ -149,10 +149,10 @@ song = {
 }
 
 song = {
-		factor = 1
 	name = "Hoffdantz (EUII)"
 	
 	chance = {
+		factor = 1
 		modifier = {
 			factor = 1.25
 			technology_group = western

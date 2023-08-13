@@ -6,5 +6,5 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="1.34.*.*"
+supported_version="1.35.*.*"
 path="mod/MEIOUandTaxes_rep_unit_DLC_support"

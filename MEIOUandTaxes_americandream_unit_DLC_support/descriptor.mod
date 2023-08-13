@@ -7,5 +7,5 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="1.34.*.*"
+supported_version="1.35.*.*"
 remote_file_id="2658516644"
