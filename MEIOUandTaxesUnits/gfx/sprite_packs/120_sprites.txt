@@ -9,7 +9,7 @@ dummy_sprites = {
 dlc120_AIN_sprite_pack = {
 	# Tests against every tag in game
 	country_trigger = {
-		culture_group = kamchatkan_g
+		culture_group = kamchatkan_group
 	}
 
 	sprite_infantry = {
@@ -66,7 +66,7 @@ dlc120_CDL_sprite_pack_tibetan_group = {
 	available_for_custom_nation = no
 	# Tests against every tag in game
 	country_trigger = {
-		culture_group = tibetan_group
+		culture_group = tibetic
 	}
 
 	sprite_infantry = {
