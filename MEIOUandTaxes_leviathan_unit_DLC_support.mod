@@ -6,5 +6,5 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"
 path="mod/MEIOUandTaxes_leviathan_unit_DLC_support"

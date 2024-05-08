@@ -6,4 +6,4 @@ tags={
 	"AZERTY"
 }
 picture="thumbnail.png"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"

@@ -10,5 +10,5 @@ tags={
 	"Theatrum Orbis Terrarum"
 }
 picture="thumbnail.png"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"
 path="mod/MEIOUandTaxes_theatrumorbisterrarum"

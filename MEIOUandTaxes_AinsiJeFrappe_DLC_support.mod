@@ -6,6 +6,6 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"
 path="mod/MEIOUandTaxes_AinsiJeFrappe_DLC_support"
 remote_file_id="2630713607"

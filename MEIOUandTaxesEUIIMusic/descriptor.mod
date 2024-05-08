@@ -8,4 +8,4 @@ tags={
 	"Music"
 }
 picture="MEIOUandTaxesUS.jpg"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"

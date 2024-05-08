@@ -8,5 +8,5 @@ tags={
 	"Horsemen of the Crescent"
 }
 picture="thumbnail.png"
-supported_version="1.35.*.*"
+supported_version="1.37.*.*"
 remote_file_id="2658147168"
