@@ -1,13 +1,7 @@
 
 dlc058_mam_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MAM
-			tag = EGY
-			tag = SYR
-			tag = TRP
-			tag = FAD
-		}
+		culture_group = mashreqi
 	}
 	sprite_infantry = {
 		0 = marnoup_MAM_INFANTRY_1
@@ -31,29 +25,9 @@ dlc058_mam_sprite_pack = {
 
 dlc058_alg_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = ALG
-			tag = MZB
-			tag = TGT
-			tag = TLE
-			tag = TOG
-			tag = ANZ
-			tag = SMM
-			tag = BTA
-			tag = BKI
-			tag = BKL
-			tag = AHS
-			tag = BYA
-			tag = BKA
-			tag = OMA
-			tag = YKA
-			tag = YEM
-			tag = YRA
-			tag = SHR
-			tag = NAJ
-			tag = HEJ
-			tag = HAD
-			tag = KBA
+		culture_group = berber_group
+		NOT = {
+			primary_culture = tuareg
 		}
 	}
 	sprite_infantry = {
@@ -78,16 +52,7 @@ dlc058_alg_sprite_pack = {
 
 dlc058_tun_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = HAF
-			tag = GHD
-			tag = AJJ
-			tag = AIR
-			tag = TUA
-			tag = TBK
-			tag = FZA
-			tag = TUN
-		}
+		primary_culture = tunisian
 	}
 	sprite_infantry = {
 		0 = marnoup_TUN_INFANTRY_1
@@ -111,14 +76,9 @@ dlc058_tun_sprite_pack = {
 
 dlc058_mor_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MOR
-			tag = GRA
-			tag = FEZ
-			tag = SOS
-			tag = TFL
-			tag = ALM
-			tag = SNJ
+		culture_group = maghreb
+		NOT = {
+			primary_culture = tunisian
 		}
 	}
 	sprite_infantry = {

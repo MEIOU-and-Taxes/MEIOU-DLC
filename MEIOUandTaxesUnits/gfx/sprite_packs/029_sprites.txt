@@ -1,11 +1,6 @@
 dlc029_bav_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = BAV
-			tag = ING
-			tag = LBV
-			tag = UBV
-		}
+		primary_culture = bavarian
 	}
 	sprite_infantry = { 1 = BAV_INFANTRY_2_catup }
 	sprite_cavalry = { 1 = BAV_CAVALRY_2_catup }

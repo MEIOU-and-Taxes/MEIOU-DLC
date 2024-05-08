@@ -1,17 +1,7 @@
 
 dlc057_eth_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = ETH
-			tag = MED
-			tag = SEM
-			tag = SID
-			tag = SEN
-			tag = BAE
-			tag = DAW
-			tag = HDA
-			tag = HDY
-		}
+		culture_group = abyssinian_group
 	}
 	sprite_infantry = {
 		0 = A57_INFANTRY_1
@@ -35,14 +25,7 @@ dlc057_eth_sprite_pack = {
 
 dlc057_nub_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = NUB
-			tag = ALW
-			tag = MKU
-			tag = SLL
-			tag = FUN
-			tag = KDF
-		}
+		culture_group = nilotic
 	}
 	sprite_infantry = {
 		0 = B57_INFANTRY_1
@@ -66,20 +49,7 @@ dlc057_nub_sprite_pack = {
 
 dlc057_mdi_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MDI
-			tag = AJU
-			tag = MOG
-			tag = MRE
-			tag = WAR
-			tag = AFA
-			tag = HAR
-			tag = GLE
-			tag = IFA
-			tag = DBA
-			tag = ADA
-			tag = SHE
-		}
+		culture_group = somali_group
 	}
 	sprite_infantry = {
 		0 = C57_INFANTRY_1
@@ -103,25 +73,7 @@ dlc057_mdi_sprite_pack = {
 
 dlc057_zan_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = ZZB
-			tag = KIL
-			tag = MBA
-			tag = MLI
-			tag = PTE
-			tag = QLM
-			tag = SOF
-			tag = MKA
-			tag = ZIM
-			tag = BUT
-			tag = TMB
-			tag = MNK
-			tag = SED
-			tag = QTV
-			tag = BUE
-			tag = LDU
-			tag = KIT
-		}
+		culture_group = swahili_group
 	}
 	sprite_infantry = {
 		0 = D57_INFANTRY_1

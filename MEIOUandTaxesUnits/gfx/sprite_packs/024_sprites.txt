@@ -34,14 +34,8 @@ dlc024_vij_sprite_pack = {
 dlc024_bng_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = BNG
-			tag = NPL
-			tag = ASS
-			tag = KMT
-			tag = GRJ
-			tag = SRG
-			tag = TPR
-			tag = DMS
+			culture_group = eastern_aryan
+			religion_group = muslim
 		}
 	}
 	sprite_infantry = {
@@ -66,43 +60,8 @@ dlc024_bng_sprite_pack = {
 
 dlc024_mar_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MAR
-			tag = ORI
-			tag = GWA
-			tag = NAG
-			tag = RED
-			tag = TLG
-			tag = JAF
-			tag = KTH
-			tag = GDW
-			tag = GHR
-			tag = MEW
-			tag = MAW
-			tag = TRT
-			tag = TNJ
-			tag = ZAM
-			tag = NGP
-			tag = KMN
-			tag = KLN
-			tag = KGR
-			tag = KAT
-			tag = JSL
-			tag = JAU
-			tag = IDR
-			tag = GNG
-			tag = GAK
-			tag = DGA
-			tag = CMP
-			tag = CHD
-			tag = BND
-			tag = BIK
-			tag = BHO
-			tag = BGL
-			tag = BGA
-			tag = ALR
-			tag = BST
-		}
+		culture_group = eastern_aryan
+		NOT = { religion_group = muslim }
 	}
 	sprite_infantry = {
 		0 = MAR_INFANTRY_1_wonupb
@@ -126,25 +85,7 @@ dlc024_mar_sprite_pack = {
 
 dlc024_mul_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MUL
-			tag = GUJ
-			tag = DLH
-			tag = NGA
-			tag = BAH
-			tag = JNP
-			tag = MLW
-			tag = HYD
-			tag = GOC
-			tag = BIJ
-			tag = KSH
-			tag = PUN
-			tag = SND
-			tag = RMP
-			tag = KHD
-			tag = MLK
-			tag = PTA
-		}
+		culture_group = indus_group
 	}
 	sprite_infantry = {
 		0 = MUL_INFANTRY_1_wonupb

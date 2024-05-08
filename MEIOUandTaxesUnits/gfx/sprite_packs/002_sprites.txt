@@ -1,14 +1,7 @@
 
 dlc002_per_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = PER
-			tag = ORM
-			tag = MUZ
-			tag = ISF
-			tag = SDM
-			tag = MZA
-		}
+		culture_group = persian_group
 	}
 
 	sprite_cavalry = {

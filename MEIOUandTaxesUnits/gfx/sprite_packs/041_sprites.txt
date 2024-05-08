@@ -92,7 +92,6 @@ dlc041_lxa_sprite_pack = {
 dlc041_cey_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = CEY
 			tag = JAF
 			tag = KTH
 		}

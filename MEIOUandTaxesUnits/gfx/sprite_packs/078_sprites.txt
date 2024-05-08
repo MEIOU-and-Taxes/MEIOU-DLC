@@ -56,7 +56,7 @@ dlc078_naj_sprite_pack = {
 			tag = AHS
 			tag = BKL
 		}
-		NOT = { tag = SHM }
+		NOT = { tag = SMM }
 		NOT = { tag = ANZ }
 	}
 	sprite_infantry = {

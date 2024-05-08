@@ -16,12 +16,7 @@ dlc067_dte_sprite_pack = {
 
 dlc067_hkw_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = HKW
-			tag = AMA
-			tag = ISK
-			tag = MAE
-		}
+		primary_culture = shikoku
 	}
 	sprite_infantry = {
 		0 = mandate_HSK_INFANTRY_1
@@ -36,12 +31,7 @@ dlc067_hkw_sprite_pack = {
 
 dlc067_hky_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = HKY
-			tag = AKT
-			tag = ASA
-			tag = TTI
-		}
+		primary_culture = koshi
 	}
 	sprite_infantry = {
 		0 = mandate_HTK_INFANTRY_1
@@ -106,8 +96,8 @@ dlc067_sba_sprite_pack = {
 	country_trigger = {
 		OR = {
 			tag = SBA
-			tag = CBA
-			tag = OGS
+			tag = CHB
+			tag = OGA
 		}
 	}
 	sprite_infantry = {
@@ -123,13 +113,7 @@ dlc067_sba_sprite_pack = {
 
 dlc067_smz_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = SMZ
-			tag = KKC
-			tag = ITO
-			tag = SHN
-			tag = IKE
-		}
+		primary_culture = kyushu
 	}
 	sprite_infantry = {
 		0 = mandate_SMZ_INFANTRY_1
@@ -147,7 +131,7 @@ dlc067_tkd_sprite_pack = {
 		OR = {
 			tag = TKD
 			tag = MRI
-			tag = TKG
+			tag = TGW
 			tag = ODA
 			tag = TKI
 		}

@@ -27,7 +27,7 @@ dlc088_crn_sprite_pack = {
 
 dlc088_mth_sprite_pack = {
 	country_trigger = {
-		tag = MTH
+		tag = MEA
 	}
 
 	sprite_infantry = {

@@ -1,15 +1,6 @@
 
 dlc062_kbo_sprite_pack = {
-	country_trigger = {
-		OR = {
-			tag = YAO
-			tag = DAR
-			tag = DSL
-			tag = KBO
-			tag = KOT
-			tag = BAG
-		}
-	}
+	culture_group = saharan_group
 	sprite_infantry = {
 		0 = rigofman_KBO_INFANTRY_1
 		1 = rigofman_KBO_INFANTRY_2
@@ -32,25 +23,7 @@ dlc062_kbo_sprite_pack = {
 
 dlc062_msi_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = YAT
-			tag = DGB
-			tag = DAH
-			tag = GUR
-			tag = UAG
-			tag = LIP
-			tag = BON
-			tag = ASH
-			tag = MSI
-			tag = BOR
-			tag = BKE
-			tag = KNG
-			tag = GON
-			tag = DNK
-			tag = AKU
-			tag = AOW
-			tag = FAN
-		}
+		culture_group = akan_group
 	}
 	sprite_infantry = {
 		0 = rigofman_MSI_INFANTRY_1
@@ -74,28 +47,7 @@ dlc062_msi_sprite_pack = {
 
 dlc062_mal_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = JNN
-			tag = KBU
-			tag = JOL
-			tag = KNG
-			tag = DJO
-			tag = FLO
-			tag = WAD
-			tag = CAY
-			tag = KAA
-			tag = MNE
-			tag = MAL
-			tag = WLO
-			tag = TAK
-			tag = GHA
-			tag = SEG
-			tag = MSN
-			tag = BIA
-			tag = BUN
-			tag = GJG
-			tag = KSA
-		}
+		culture_group = senegambian
 	}
 	sprite_infantry = {
 		0 = rigofman_MAL_INFANTRY_1
@@ -119,19 +71,7 @@ dlc062_mal_sprite_pack = {
 
 dlc062_ben_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = BEN
-			tag = OYO
-			tag = NRI
-			tag = CLB
-			tag = IFE
-			tag = IGB
-			tag = IJA
-			tag = IJS
-			tag = IJE
-			tag = EGB
-			tag = YRB
-		}
+		culture_group = kwa_group
 	}
 	sprite_infantry = {
 		0 = rigofman_BEN_INFANTRY_1
@@ -155,21 +95,7 @@ dlc062_ben_sprite_pack = {
 
 dlc062_hau_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = HAU
-			tag = KTS
-			tag = ZZZ
-			tag = ZAF
-			tag = KNO
-			tag = JUK
-			tag = KBI
-			tag = NUP
-			tag = GOB
-			tag = SOK
-			tag = DRA
-			tag = YAU
-			tag = GWR
-		}
+		primary_culture = hausa
 	}
 	sprite_infantry = {
 		0 = rigofman_HAU_INFANTRY_1
@@ -193,15 +119,8 @@ dlc062_hau_sprite_pack = {
 
 dlc062_tmb_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = TBK
-			tag = TUA
-			tag = AJJ
-			tag = GHD
-			tag = TFL
-			tag = ADR
-			tag = CNA
-		}
+		culture_group = mande_group
+		NOT = { primary_culture = songhai }
 	}
 	sprite_infantry = {
 		0 = rigofman_TMB_INFANTRY_1
@@ -225,13 +144,7 @@ dlc062_tmb_sprite_pack = {
 
 dlc062_air_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = AIR
-			tag = FZA
-			tag = ZIN
-			tag = KBA
-			tag = AHA
-		}
+		primary_culture = tuareg
 	}
 	sprite_infantry = {
 		0 = rigofman_AIR_INFANTRY_1
@@ -255,10 +168,7 @@ dlc062_air_sprite_pack = {
 
 dlc062_son_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = SON
-			tag = BOR
-		}
+		tag = SON
 	}
 	sprite_infantry = {
 		0 = rigofman_SON_INFANTRY_1
@@ -282,17 +192,7 @@ dlc062_son_sprite_pack = {
 
 dlc062_madagascar_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = MHF
-			tag = TAM
-			tag = ANT
-			tag = MNB
-			tag = BAA
-			tag = BET
-			tag = MER
-			tag = SIH
-			tag = BNA
-		}
+		culture_group = madagascan_group
 	}
 	sprite_infantry = {
 		0 = rigofman_MSI_INFANTRY_1
@@ -316,41 +216,7 @@ dlc062_madagascar_sprite_pack = {
 
 dlc062_kongo_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = KON
-			tag = LOA
-			tag = NDO
-			tag = BNY
-			tag = BUE
-			tag = BUG
-			tag = BUU
-			tag = CKW
-			tag = KIK
-			tag = KLD
-			tag = KRW
-			tag = KSJ
-			tag = KUB
-			tag = KZB
-			tag = LDU
-			tag = LND
-			tag = LUB
-			tag = MKA
-			tag = MPO
-			tag = MRA
-			tag = MTB
-			tag = NKO
-			tag = NLA
-			tag = QTV
-			tag = RWA
-			tag = RZB
-			tag = SED
-			tag = SYO
-			tag = TMB
-			tag = TOR
-			tag = TYO
-			tag = UBH
-			tag = YAK
-		}
+		culture_group = kongo_group
 	}
 	sprite_infantry = {
 		0 = rigofman_MSI_INFANTRY_1

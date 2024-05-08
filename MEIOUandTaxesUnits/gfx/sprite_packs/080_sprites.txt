@@ -50,7 +50,7 @@ dlc080_akk_sprite_pack = {
 dlc080_shm_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = SHM
+			tag = SMM
 			tag = ANZ
 			tag = FAD
 		}

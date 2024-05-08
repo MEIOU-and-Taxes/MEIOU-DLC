@@ -319,12 +319,12 @@ dlc001_btu_sprite_pack = {
 	sprite_cavalry = { 0 = BTU_HYW_CAVALRY_1 }
 	sprite_artillery = { 0 = BTU_HYW_ARTILLERY_1 }
 }
-dlc001_tli_sprite_pack = {
-	country_trigger = { tag = TLI }
-	sprite_infantry = { 0 = TLI_HYW_INFANTRY_1 }
-	sprite_cavalry = { 0 = TLI_HYW_CAVALRY_1 }
-	sprite_artillery = { 0 = TLI_HYW_ARTILLERY_1 }
-}
+# dlc001_tli_sprite_pack = {
+# 	country_trigger = { tag = TLI }
+# 	sprite_infantry = { 0 = TLI_HYW_INFANTRY_1 }
+# 	sprite_cavalry = { 0 = TLI_HYW_CAVALRY_1 }
+# 	sprite_artillery = { 0 = TLI_HYW_ARTILLERY_1 }
+# }
 dlc001_mea_sprite_pack = {
 	country_trigger = { tag = MEA }
 	sprite_infantry = { 0 = MEA_HYW_INFANTRY_1 }

@@ -3,7 +3,6 @@ dlc073_rya_sprite_pack = {
 	country_trigger = {
 		OR = {
 			tag = RYA
-			tag = TSS
 		}
 	}
 	sprite_infantry = {
@@ -29,7 +28,7 @@ dlc073_rya_sprite_pack = {
 dlc073_oka_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = OKA
+			#tag = OKA
 			tag = VOR
 			tag = NVS
 			tag = KRC

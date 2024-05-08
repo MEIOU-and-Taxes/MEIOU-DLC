@@ -96,16 +96,7 @@ dlc047_cir_sprite_pack = {
 
 dlc047_feo_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = FEO
-			tag = THD
-			tag = GEO
-			tag = IME
-			tag = KRT
-			tag = KAK
-			tag = ARM
-			tag = SYU
-		}
+		tag = THD
 	}
 	sprite_infantry = {
 		0 = D47_INFANTRY_1

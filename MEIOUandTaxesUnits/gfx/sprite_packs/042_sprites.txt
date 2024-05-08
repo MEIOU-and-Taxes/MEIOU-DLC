@@ -29,14 +29,7 @@ dlc042_rus_sprite_pack = {
 dlc042_hol_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = BRB
-			tag = BUR
-			tag = FLA
-			tag = GEL
-			tag = HOL
-			tag = LIE
-			tag = LOT
-			tag = LUX
+			culture_group = low_frankish
 		}
 	}
 	sprite_infantry = {
@@ -107,23 +100,7 @@ dlc042_por_sprite_pack = {
 
 dlc042_tur_sprite_pack = {
 	country_trigger = {
-		OR = {
-			tag = TUR
-			tag = OTT
-			tag = ERZ
-			tag = SRN
-			tag = AYD
-			tag = MEN
-			tag = GRN
-			tag = HMD
-			tag = TKE
-			tag = CND
-			tag = CNK
-			tag = KAR
-			tag = ERE
-			tag = DUL
-			tag = MNT
-		}
+		primary_culture = turkish
 	}
 	sprite_infantry = {
 		0 = D42_INFANTRY_1

@@ -76,7 +76,7 @@ dlc028_ned_sprite_pack = {
 }
 
 dlc028_pom_sprite_pack = {
-	country_trigger = { OR = { tag = POM tag = STE tag = WOL } }
+	country_trigger = { OR = { tag = POM tag = PST tag = PWO } }
 	sprite_infantry = { 1 = POM_INFANTRY_2_evup }
 	sprite_cavalry = { 1 = POM_CAVALRY_2_evup }
 	sprite_artillery = { 1 = POM_ARTILLERY_2_evup }
