@@ -1,4 +1,4 @@
-﻿dummy_sprites = {
+dummy_sprites = {
 	available_for_custom_nation = no
 	# Tests against every tag in game
 	country_trigger = {
@@ -136,18 +136,7 @@ dlc116_DIT_sprite_pack_western = {
 	#}
 	
 	country_trigger = {
-		has_reform = peasants_republic
-		OR = {
-			culture_group = british
-			culture_group = germanic
-			culture_group = french
-			culture_group = scandinavian
-			culture_group = gaelic
-			culture_group = latin
-			culture_group = iberian
-			culture_group = finno_ugric
-			culture_group = west_slavic
-		}
+		tag = DIT
 	}
 
 	sprite_infantry = {
