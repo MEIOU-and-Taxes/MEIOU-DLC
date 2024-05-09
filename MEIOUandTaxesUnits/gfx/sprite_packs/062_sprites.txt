@@ -1,6 +1,8 @@
 
 dlc062_kbo_sprite_pack = {
-	culture_group = saharan_group
+	country_trigger = {
+		culture_group = saharan_group
+	}
 	sprite_infantry = {
 		0 = rigofman_KBO_INFANTRY_1
 		1 = rigofman_KBO_INFANTRY_2
