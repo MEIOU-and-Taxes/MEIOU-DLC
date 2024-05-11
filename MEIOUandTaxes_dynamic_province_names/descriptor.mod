@@ -9,4 +9,4 @@ tags={
 	"Translation"
 }
 picture="thumbnail.png"
-supported_version="1.37.*.*"
+supported_version="v1.37.0.0"

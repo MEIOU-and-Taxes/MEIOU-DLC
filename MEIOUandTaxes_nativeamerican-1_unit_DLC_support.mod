@@ -6,6 +6,6 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="1.37.*.*"
+supported_version="v1.37.0.0"
 path="mod/MEIOUandTaxes_nativeamerican-1_unit_DLC_support"
 remote_file_id="2658517358"
