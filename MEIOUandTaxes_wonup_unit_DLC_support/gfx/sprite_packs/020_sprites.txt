@@ -393,4 +393,5 @@ dlc020_gen_sprite_pack = {
 		1 = wonup_GEN_ARTILLERY_2
 		2 = wonup_GEN_ARTILLERY_3
 		3 = wonup_GEN_ARTILLERY_4
+	}
 }

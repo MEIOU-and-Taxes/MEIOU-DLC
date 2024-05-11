@@ -95,7 +95,6 @@ dlc020_hsa_sprite_pack = {
 dlc020_lor_sprite_pack = {
 	country_trigger = {
 		OR = {
-			tag = LOR
 			tag = MTV
 			tag = BAR
 		}
@@ -202,10 +201,8 @@ dlc020_mas_sprite_pack = {
 	country_trigger = {
 		OR = {
 			tag = MAS
-			tag = FIR
 			tag = PIS
 			tag = SAR
-			tag = VEN
 		}
 	}
 	sprite_infantry = {

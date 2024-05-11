@@ -77,8 +77,7 @@ dlc068_kor_sprite_pack = {
 
 dlc068_mng_sprite_pack = {
 	country_trigger = {
-		culture_group = chinese_group
-		NOT = { tag = QNG }
+		tag = MNG
 	}
 	sprite_infantry = {
 		0 = mandate_MNG_INFANTRY_1

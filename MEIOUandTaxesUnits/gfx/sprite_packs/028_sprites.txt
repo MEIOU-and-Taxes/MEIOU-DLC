@@ -69,7 +69,7 @@ dlc028_wur_sprite_pack = {
 }
 
 dlc028_ned_sprite_pack = {
-	country_trigger = { culture_group = low_frankish }
+	country_trigger = { tag = NED }
 	sprite_infantry = { 1 = NED_INFANTRY_2_evup }
 	sprite_cavalry = { 1 = NED_CAVALRY_2_evup }
 	sprite_artillery = { 1 = NED_ARTILLERY_2_evup }

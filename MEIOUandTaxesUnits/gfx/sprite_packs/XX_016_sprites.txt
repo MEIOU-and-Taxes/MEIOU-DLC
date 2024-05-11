@@ -45,7 +45,6 @@ dlc016_fra_sprite_pack = {
 		OR = {
 			culture_group = langue_d_oil
 			culture_group = langue_d_oc
-			culture_group = low_frankish
 			primary_culture = breton
 		}
 	}

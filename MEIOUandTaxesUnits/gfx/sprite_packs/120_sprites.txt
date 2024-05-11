@@ -91,46 +91,11 @@ dlc120_CDL_sprite_pack_tibetan_group = {
 	}
 }
 
-dlc120_CHP_sprite_pack = {
-	# Tests against every tag in game
-	country_trigger = {
-		OR = {
-			culture_group = langue_d_oil
-			culture_group = langue_d_oc
-		}
-		NOT = { tag = FRA }
-	}
-
-	sprite_infantry = {
-		0 = CHP_INFANTRY_1
-		1 = CHP_INFANTRY_2
-		2 = CHP_INFANTRY_3
-		3 = CHP_INFANTRY_4
-	}
-
-	sprite_cavalry = {
-		0 = CHP_CAVALRY_1
-		1 = CHP_CAVALRY_2
-		2 = CHP_CAVALRY_3
-		3 = CHP_CAVALRY_4
-	}
-
-	sprite_artillery = {
-		0 = CHP_ARTILLERY_1
-		1 = CHP_ARTILLERY_2
-		2 = CHP_ARTILLERY_3
-		3 = CHP_ARTILLERY_4
-	}
-}
-
 dlc120_CHP_sprite_pack_french = {
 	available_for_custom_nation = no
 	# Tests against every tag in game
 	country_trigger = {
-		OR = {
-			culture_group = langue_d_oil
-			culture_group = langue_d_oc
-		}
+		tag = CHP
 	}
 
 	sprite_infantry = {
@@ -158,88 +123,48 @@ dlc120_CHP_sprite_pack_french = {
 dlc120_LIE_sprite_pack = {
 	# Tests against every tag in game
 	country_trigger = {
-		OR = {
-			primary_culture = wallonian
-			primary_culture = flemish
-		}
+		tag = LIE
 	}
 
 	sprite_infantry = {
-		0 = LIE_INFANTRY_1
 		1 = LIE_INFANTRY_2
 		2 = LIE_INFANTRY_3
 		3 = LIE_INFANTRY_4
 	}
 
 	sprite_cavalry = {
-		0 = LIE_CAVALRY_1
 		1 = LIE_CAVALRY_2
 		2 = LIE_CAVALRY_3
 		3 = LIE_CAVALRY_4
 	}
 
 	sprite_artillery = {
-		0 = LIE_ARTILLERY_1
 		1 = LIE_ARTILLERY_2
 		2 = LIE_ARTILLERY_3
 		3 = LIE_ARTILLERY_4
 	}
 }
 
-dlc120_LIE_sprite_pack_dutch = {
-	available_for_custom_nation = no
-	# Tests against every tag in game
-	country_trigger = {
-		OR = {
-			primary_culture = dutch
-			primary_culture = frisian
-		}
-	}
-
-	sprite_infantry = {
-		0 = LIE_INFANTRY_1
-		1 = LIE_INFANTRY_2
-		2 = LIE_INFANTRY_3
-		3 = LIE_INFANTRY_4
-	}
-
-	sprite_cavalry = {
-		0 = LIE_CAVALRY_1
-		1 = LIE_CAVALRY_2
-		2 = LIE_CAVALRY_3
-		3 = LIE_CAVALRY_4
-	}
-
-	sprite_artillery = {
-		0 = LIE_ARTILLERY_1
-		1 = LIE_ARTILLERY_2
-		2 = LIE_ARTILLERY_3
-		3 = LIE_ARTILLERY_4
-	}
-}
 
 dlc120_LOR_sprite_pack = {
 	# Tests against every tag in game
 	country_trigger = {
-		primary_culture = bourguignon
+		tag = LOR
 	}
 
 	sprite_infantry = {
-		0 = LOR_INFANTRY_1
 		1 = LOR_INFANTRY_2
 		2 = LOR_INFANTRY_3
 		3 = LOR_INFANTRY_4
 	}
 
 	sprite_cavalry = {
-		0 = LOR_CAVALRY_1
 		1 = LOR_CAVALRY_2
 		2 = LOR_CAVALRY_3
 		3 = LOR_CAVALRY_4
 	}
 
 	sprite_artillery = {
-		0 = LOR_ARTILLERY_1
 		1 = LOR_ARTILLERY_2
 		2 = LOR_ARTILLERY_3
 		3 = LOR_ARTILLERY_4
@@ -306,10 +231,7 @@ dlc120_SUL_sprite_pack_malay_group = {
 dlc120_TOU_sprite_pack = {
 	# Tests against every tag in game
 	country_trigger = {
-		OR = {
-			primary_culture = gascon
-			primary_culture = occitain
-		}
+		tag = TOU
 	}
 
 	sprite_infantry = {

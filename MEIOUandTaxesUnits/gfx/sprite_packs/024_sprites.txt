@@ -33,10 +33,8 @@ dlc024_vij_sprite_pack = {
 
 dlc024_bng_sprite_pack = {
 	country_trigger = {
-		OR = {
-			culture_group = eastern_aryan
-			religion_group = muslim
-		}
+		culture_group = eastern_aryan
+		religion_group = muslim
 	}
 	sprite_infantry = {
 		0 = BNG_INFANTRY_1_wonupb
