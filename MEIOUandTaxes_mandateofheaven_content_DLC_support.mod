@@ -6,5 +6,5 @@ tags={
 	"MEIOU and Taxes"
 }
 picture="thumbnail.png"
-supported_version="v1.37.0.0"
+supported_version="v1.37.*.*"
 path="mod/MEIOUandTaxes_mandateofheaven_content_DLC_support"
