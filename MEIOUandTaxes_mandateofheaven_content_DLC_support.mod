@@ -8,3 +8,4 @@ tags={
 picture="thumbnail.png"
 supported_version="v1.37.*.*"
 path="mod/MEIOUandTaxes_mandateofheaven_content_DLC_support"
+remote_file_id="2894419597"

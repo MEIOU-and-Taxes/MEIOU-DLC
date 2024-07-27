@@ -1,4 +1,4 @@
-name="M&T v3.0 Dharma Unit DLC Support"
+name="M&T Conquest of Paradise DLC Support"
 dependencies={
 	"MEIOU and Taxes v3.0"
 }
@@ -7,5 +7,4 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="v1.37.*.*"
-path="mod/MEIOUandTaxes_dharma_unit_DLC_support"
-remote_file_id="2894418537"
+path="mod/MEIOUandTaxes1_cop_DLC_support"

@@ -1,4 +1,4 @@
-name="M&T v3.0 Lions of the North Unit DLC Support"
+name="M&T v3.0 Lions of hte North Unit DLC Support"
 dependencies={
 	"MEIOU and Taxes v3.0"
 }
@@ -8,3 +8,4 @@ tags={
 picture="thumbnail.png"
 supported_version="v1.37.*.*"
 path="mod/MEIOUandTaxes_lions_unit_DLC_support"
+remote_file_id="2894419389"

@@ -1,5 +1,4 @@
-name="M&T El Dorado DLC Support"
-path="mod/MEIOUandTaxes1_el_dorado_DLC_support"
+name="M&T Muslim Advisor DLC Support"
 dependencies={
 	"MEIOU and Taxes v3.0"
 }
@@ -8,3 +7,4 @@ tags={
 }
 picture="thumbnail.png"
 supported_version="v1.37.*.*"
+path="mod/MEIOUandTaxes1_muslim_advisor_DLC_support"
