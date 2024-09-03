@@ -248,6 +248,7 @@ PixelShader =
 			vBottomNormal = xaxis * vHeightNormal.x + zaxis * vHeightNormal.y + yaxis * vHeightNormal.z;
 							
 			float3 vColor = lerp( vBottom, vWaterSurface.xyz, vWaterSurface.a * 0.8f );
+			vColor *= 1.2f;
 			vColor = ApplyWaterSnow( vColor, In.vPrePos_Fade.xyz, vSurfaceNormal, vFoWColor, FoWDiffuse );
 
 			float smoothTransition = sqrt( saturate( ( In.vPrePos_Fade.y - 19.0f ) * 1.5f ) );
