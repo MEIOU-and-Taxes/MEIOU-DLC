@@ -60,9 +60,9 @@ static const float 	TREE_SEASON_FADE_TWEAK 		= 2.5f;
 static const bool   PARALLAX					= true;
 static const float  PARALLAX_SCALE				= 0.0625f;
 static const bool   FALSE_COLORS				= false;
-static const float  TERRAIN_COLOR_SATURATION	= 0.75f;
-static const float  TERRAIN_COLOR_MULTIPLIER	= 0.95f;  //1.0
-static const float  TERRAIN_COLOR_OPACITY_NEAR	= 0.4f;  //1.0
+static const float  TERRAIN_COLOR_SATURATION	= 0.81f;
+static const float  TERRAIN_COLOR_MULTIPLIER	= 0.85f;  //1.0
+static const float  TERRAIN_COLOR_OPACITY_NEAR	= 0.0f;  //1.0
 static const float  TERRAIN_COLOR_OPACITY_FAR	= 1.0f;
 static const float  TERRAIN_COLOR_MIN_HEIGHT	= 60.0f;
 static const float  TERRAIN_COLOR_MAX_HEIGHT	= 500.0f;  //300.0
@@ -82,7 +82,7 @@ static const float 	WATER_TIME_SCALE			= 10.0f;  //12.0
 
 static const bool   REPLACE_WATER_TEXTURE		= true;
 static const float  WATER_CONTRAST				= 1.2f;  //1.0
-static const float  WATER_COLOR_MULTIPLIER		= 1.2f;  //1.0
+static const float  WATER_COLOR_MULTIPLIER		= 1.0f;  //1.0
 static const int	WATER_RAMP_STOP				= 8;
 #ifndef PDX_OPENGL
 static const float4 WATER_RAMP[WATER_RAMP_STOP] =
