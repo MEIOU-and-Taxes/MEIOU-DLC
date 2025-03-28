@@ -1,6 +1,7 @@
 name="Theatrum Orbis Terrarum for MEIOU & Taxes 3.0"
 dependencies={
 	"MEIOU and Taxes v3.0"
+	"MEIOU and Taxes v3.0 - Traveler Edition"
 }
 tags={
 	"Graphics"

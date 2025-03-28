@@ -1,6 +1,7 @@
 name="M&T v3.0 Complete DLC Support"
 dependencies={
 	"MEIOU and Taxes v3.0"
+	"MEIOU and Taxes v3.0 - Traveler Edition"
 }
 tags={
 	"MEIOU and Taxes"
